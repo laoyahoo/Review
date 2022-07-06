@@ -74,7 +74,7 @@ class Download_IPCIDR(object):
         # 原始下载的数据
         old_path_url = os.path.join(path_url, "anti-ad-surge.txt")
         # 更改后的数据
-        new_path_url = os.path.join(path_url,"anti-ad-qx.list")
+        new_path_url = os.path.join(path_url,"AntiadQx.list")
 
         if os.path.exists(new_path_url):  # 如果文件存在则删除，第一次没有文件，后面每次更新都有
             os.remove(new_path_url)  # 删除文件
