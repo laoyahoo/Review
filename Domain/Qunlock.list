@@ -1,38 +1,38 @@
 # 放行规则
 # > General
-HOST-SUFFIX,app.adjust.com,DIRECT
-HOST-SUFFIX,app.appsflyer.com,DIRECT
-HOST-SUFFIX,bdtj.tagtic.cn,DIRECT
+HOST,app.adjust.com,DIRECT
+HOST,app.appsflyer.com,DIRECT
+HOST,bdtj.tagtic.cn,DIRECT
 # > Alibaba
-HOST-SUFFIX,log.mmstat.com,DIRECT
-HOST-SUFFIX,sycm.mmstat.com,DIRECT
+HOST,log.mmstat.com,DIRECT
+HOST,sycm.mmstat.com,DIRECT
 # > Google
-HOST-SUFFIX-SUFFIX,blog.google,DIRECT
-HOST-SUFFIX-SUFFIX,googletraveladservices.com,DIRECT
-HOST-SUFFIX,clientservices.googleapis.com,DIRECT
-HOST-SUFFIX,dl.google.com,DIRECT
-HOST-SUFFIX,dl.l.google.com,DIRECT
-HOST-SUFFIX,update.googleapis.com,DIRECT
-HOST-SUFFIX,translate.googleapis.com,DIRECT
+HOST,blog.google,DIRECT
+HOST,googletraveladservices.com,DIRECT
+HOST,clientservices.googleapis.com,DIRECT
+HOST,dl.google.com,DIRECT
+HOST,dl.l.google.com,DIRECT
+HOST,update.googleapis.com,DIRECT
+HOST,translate.googleapis.com,DIRECT
 # >> Firebase Cloud Messaging
-HOST-SUFFIX,mtalk.google.com,DIRECT
-HOST-SUFFIX,alt1-mtalk.google.com,DIRECT
-HOST-SUFFIX,alt2-mtalk.google.com,DIRECT
-HOST-SUFFIX,alt3-mtalk.google.com,DIRECT
-HOST-SUFFIX,alt4-mtalk.google.com,DIRECT
-HOST-SUFFIX,alt5-mtalk.google.com,DIRECT
-HOST-SUFFIX,alt6-mtalk.google.com,DIRECT
-HOST-SUFFIX,alt7-mtalk.google.com,DIRECT
-HOST-SUFFIX,alt8-mtalk.google.com,DIRECT
+HOST,mtalk.google.com,DIRECT
+HOST,alt1-mtalk.google.com,DIRECT
+HOST,alt2-mtalk.google.com,DIRECT
+HOST,alt3-mtalk.google.com,DIRECT
+HOST,alt4-mtalk.google.com,DIRECT
+HOST,alt5-mtalk.google.com,DIRECT
+HOST,alt6-mtalk.google.com,DIRECT
+HOST,alt7-mtalk.google.com,DIRECT
+HOST,alt8-mtalk.google.com,DIRECT
 # >> Paramount+
-# HOST-SUFFIX,pubads.g.doubleclick.net,DIRECT
+# HOST,pubads.g.doubleclick.net,DIRECT
 # > Tencent
-HOST-SUFFIX,fairplay.l.qq.com,DIRECT
-HOST-SUFFIX,livew.l.qq.com,DIRECT
-HOST-SUFFIX,vd.l.qq.com,DIRECT
-HOST-SUFFIX,vi.l.qq.com,DIRECT
+HOST,fairplay.l.qq.com,DIRECT
+HOST,livew.l.qq.com,DIRECT
+HOST,vd.l.qq.com,DIRECT
+HOST,vi.l.qq.com,DIRECT
 # > Strava
-HOST-SUFFIX,analytics.strava.com,DIRECT
+HOST,analytics.strava.com,DIRECT
 # > Umeng
-HOST-SUFFIX,msg.umeng.com,DIRECT
-HOST-SUFFIX,msg.umengcloud.com,DIRECT
+HOST,msg.umeng.com,DIRECT
+HOST,msg.umengcloud.com,DIRECT
