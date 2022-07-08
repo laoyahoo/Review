@@ -1,7 +1,7 @@
 #TITLE=anti-AD,REJECT
-#VER=20220705024342,REJECT
+#VER=20220708024555,REJECT
 #URL=https://github.com/privacy-protection-tools/anti-AD,REJECT
-#TOTAL_LINES=54919,REJECT
+#TOTAL_LINES=55013,REJECT
 HOST,000123456789.online,REJECT
 HOST,000123456789.site,REJECT
 HOST,000123456789.space,REJECT
@@ -176,7 +176,6 @@ HOST,0i56tboc6j5i.com,REJECT
 HOST,0j7z9aw6.top,REJECT
 HOST,0ka.com,REJECT
 HOST,dmtu.0m31a.cn,REJECT
-HOST,0myksyhuuz.cn,REJECT
 HOST,0n6h.cn,REJECT
 HOST,ooo.0o0.ooo,REJECT
 HOST,m.0o8iuh.cn,REJECT
@@ -390,7 +389,6 @@ HOST,13bt.info,REJECT
 HOST,13e0df9b41.com,REJECT
 HOST,13hangpifa.com,REJECT
 HOST,d.13mobi.com,REJECT
-HOST,13owamwp6c.cn,REJECT
 HOST,13vm73vbmp.com,REJECT
 HOST,13wn.com,REJECT
 HOST,13yg.cn,REJECT
@@ -561,7 +559,6 @@ HOST,1990tu.com,REJECT
 HOST,1999019.com,REJECT
 HOST,199zw.com,REJECT
 HOST,19oxfkn.cn,REJECT
-HOST,v1.19purify.com,REJECT
 HOST,1affmedia.com,REJECT
 HOST,1aogoh1j81g3.com,REJECT
 HOST,1bcde.com,REJECT
@@ -1362,6 +1359,7 @@ HOST,4135.com,REJECT
 HOST,41cm.shop,REJECT
 HOST,41df76c67812005c.com,REJECT
 HOST,41ee789d61.com,REJECT
+HOST,41fcd2b939.com,REJECT
 HOST,m.41fsxa.cn,REJECT
 HOST,e.41zna.cn,REJECT
 HOST,4207008.com,REJECT
@@ -1431,6 +1429,7 @@ HOST,4b6994dfa47cee4.com,REJECT
 HOST,4bb6jls06l.com,REJECT
 HOST,4c935d6a244f.com,REJECT
 HOST,4cinsights.com,REJECT
+HOST,4cr447ewncl4.com,REJECT
 HOST,4d4ac172b7.com,REJECT
 HOST,4dex.io,REJECT
 HOST,4dsbanner.net,REJECT
@@ -1498,6 +1497,7 @@ HOST,e.4x58a.cn,REJECT
 HOST,m.4x58a.cn,REJECT
 HOST,stat.5-tv.ru,REJECT
 HOST,1.5000yan.com,REJECT
+HOST,50039tk.com,REJECT
 HOST,500img.com,REJECT
 HOST,504pk.com,REJECT
 HOST,4399stat.5054399.com,REJECT
@@ -1537,6 +1537,7 @@ HOST,518yi.com,REJECT
 HOST,519397.com,REJECT
 HOST,51ads.com,REJECT
 HOST,51boxian.cc,REJECT
+HOST,51cf9c517a.com,REJECT
 HOST,51check.com.cn,REJECT
 HOST,51chumoping.com,REJECT
 HOST,51city.fun,REJECT
@@ -1740,7 +1741,6 @@ HOST,jing.58.com,REJECT
 HOST,jumpluna.58.com,REJECT
 HOST,news.58.com,REJECT
 HOST,zzpush.58.com,REJECT
-HOST,580a41eea49e.com,REJECT
 HOST,5814889.com,REJECT
 HOST,gk1.582582.com,REJECT
 HOST,583d46135c.com,REJECT
@@ -1874,6 +1874,7 @@ HOST,6071.com,REJECT
 HOST,6080ai.com,REJECT
 HOST,60999.cn,REJECT
 HOST,60d4631eb3.com,REJECT
+HOST,60e19222e9.com,REJECT
 HOST,ee.60w3s.cn,REJECT
 HOST,61165.com,REJECT
 HOST,612.com,REJECT
@@ -1900,6 +1901,7 @@ HOST,62wm.com,REJECT
 HOST,fd2.m.630book.la,REJECT
 HOST,rt2.m.630book.la,REJECT
 HOST,6374870abd.com,REJECT
+HOST,6399tp.com,REJECT
 HOST,63kc.com,REJECT
 HOST,63r2vxacp0pr.com,REJECT
 HOST,63voy9ciyi14.com,REJECT
@@ -1961,8 +1963,11 @@ HOST,666645.xyz,REJECT
 HOST,666647.xyz,REJECT
 HOST,666648.xyz,REJECT
 HOST,666649.xyz,REJECT
+HOST,666653.xyz,REJECT
+HOST,666657.xyz,REJECT
 HOST,66666119.com,REJECT
 HOST,666666666666.site,REJECT
+HOST,666672.xyz,REJECT
 HOST,6667778882021.site,REJECT
 HOST,6669667.com,REJECT
 HOST,666video.asia,REJECT
@@ -2001,6 +2006,7 @@ HOST,6899.fun,REJECT
 HOST,68d97476e6.com,REJECT
 HOST,sygame.695157.com,REJECT
 HOST,html.696157.com,REJECT
+HOST,69688qp.com,REJECT
 HOST,69ed4fcc9d.com,REJECT
 HOST,69i.club,REJECT
 HOST,m.69o1c.cn,REJECT
@@ -2088,7 +2094,6 @@ HOST,70bhsd.cn,REJECT
 HOST,70e.com,REJECT
 HOST,tz.70e.me,REJECT
 HOST,70ee6484605f.com,REJECT
-HOST,70fp7880qz.cn,REJECT
 HOST,70lm.com,REJECT
 HOST,70we55s.cn,REJECT
 HOST,70yst.com,REJECT
@@ -2375,7 +2380,6 @@ HOST,dodi.86zhnc.cn,REJECT
 HOST,87159d7b62fc885.com,REJECT
 HOST,874547.men,REJECT
 HOST,8761f9f83613.com,REJECT
-HOST,ffg34fg.877zw.com,REJECT
 HOST,878090.com,REJECT
 HOST,b17.8794.cn,REJECT
 HOST,87fgr4.site,REJECT
@@ -2971,6 +2975,7 @@ HOST,ablatesgascon.cam,REJECT
 HOST,ableaborah.com,REJECT
 HOST,ablebodiedfibre.com,REJECT
 HOST,ablehed.pro,REJECT
+HOST,ablen06.tk,REJECT
 HOST,ablenctionalle.info,REJECT
 HOST,ablesasme.co,REJECT
 HOST,ablida.net,REJECT
@@ -3040,7 +3045,6 @@ HOST,abwang.xyz,REJECT
 HOST,abwhyag.com,REJECT
 HOST,ac0c95f18a59.com,REJECT
 HOST,ac56.xyz,REJECT
-HOST,ac7d539d732.com,REJECT
 HOST,acacdn.com,REJECT
 HOST,tracking.academicyear.org,REJECT
 HOST,analytics.academy.com,REJECT
@@ -4387,6 +4391,7 @@ HOST,aec40f9e073ba6.com,REJECT
 HOST,b.aecf.org,REJECT
 HOST,aeckcjy.com,REJECT
 HOST,aedqunriyswthc.com,REJECT
+HOST,aeeg5idiuenbi7erger.com,REJECT
 HOST,aeesy.com,REJECT
 HOST,marketing.aefonline.org,REJECT
 HOST,cdn.aegins.com,REJECT
@@ -5018,6 +5023,7 @@ HOST,alexandraeden.com,REJECT
 HOST,sstats.alfa.com,REJECT
 HOST,alfatraffic.com,REJECT
 HOST,alflying.win,REJECT
+HOST,alfpair.com,REJECT
 HOST,alga9frog.com,REJECT
 HOST,algistorder.com,REJECT
 HOST,stats2.algo.at,REJECT
@@ -5189,6 +5195,7 @@ HOST,allengao.top,REJECT
 HOST,allengeoun.club,REJECT
 HOST,allenprepareattic.com,REJECT
 HOST,allerdelphin.com,REJECT
+HOST,alleviatepracticableaddicted.com,REJECT
 HOST,alleyskin.com,REJECT
 HOST,allfontshere.press,REJECT
 HOST,mdxhon.allhomes.com.au,REJECT
@@ -5280,6 +5287,7 @@ HOST,alphagodaddy.com,REJECT
 HOST,clientservice.alphasimplex.com,REJECT
 HOST,engage.alphastarcm.com,REJECT
 HOST,alphonso.tv,REJECT
+HOST,alpidoveon.com,REJECT
 HOST,alpineactor.com,REJECT
 HOST,scout.alpinetrek.co.uk,REJECT
 HOST,scout.alpiniste.fr,REJECT
@@ -5472,6 +5480,7 @@ HOST,marketing.amerra.com,REJECT
 HOST,smetrics.amersportsproclub.com,REJECT
 HOST,amexcadrillon.com,REJECT
 HOST,amgdgt.com,REJECT
+HOST,amhixwqagiz.ru,REJECT
 HOST,m.amhmhg.cn,REJECT
 HOST,amhpbhyxfgvd.com,REJECT
 HOST,amiablebackscertified.com,REJECT
@@ -5539,7 +5548,6 @@ HOST,analyticson.com,REJECT
 HOST,analyticswizard.com,REJECT
 HOST,analytik.xyz,REJECT
 HOST,analytk.com,REJECT
-HOST,analyzeagg.com,REJECT
 HOST,anamaembush.com,REJECT
 HOST,anametrix.com,REJECT
 HOST,anametrix.net,REJECT
@@ -5750,6 +5758,7 @@ HOST,metrics.apartments.com,REJECT
 HOST,yjxssk.apartments.com,REJECT
 HOST,aparvibices.com,REJECT
 HOST,apathetictheory.com,REJECT
+HOST,apathylahuli.website,REJECT
 HOST,info.apbspeakers.com,REJECT
 HOST,apbxnqbhd.com,REJECT
 HOST,apccrwpr.com,REJECT
@@ -5909,6 +5918,7 @@ HOST,apsxm.cn,REJECT
 HOST,med.aptalispharma.com,REJECT
 HOST,aptausad.com,REJECT
 HOST,aptimorph.com,REJECT
+HOST,aptonnerv.buzz,REJECT
 HOST,t.aptuspet.com,REJECT
 HOST,apus.tech,REJECT
 HOST,apvdr.com,REJECT
@@ -6055,6 +6065,7 @@ HOST,secure.arrow.com,REJECT
 HOST,arrowpushengine.com,REJECT
 HOST,arrows-hitech.com,REJECT
 HOST,arsdev.net,REJECT
+HOST,arshineensnarl.com,REJECT
 HOST,arsonexchangefly.com,REJECT
 HOST,fpa-cdn.arstechnica.com,REJECT
 HOST,arswabluchan.com,REJECT
@@ -6353,6 +6364,7 @@ HOST,attacketslovern.info,REJECT
 HOST,fpc.attcenter.com,REJECT
 HOST,info.attcenter.com,REJECT
 HOST,attempted.wang,REJECT
+HOST,attemptgyrose.com,REJECT
 HOST,attemptinghorace.com,REJECT
 HOST,attemptsbetween.com,REJECT
 HOST,attendantsteakfax.com,REJECT
@@ -6581,6 +6593,7 @@ HOST,avalanchemight.com,REJECT
 HOST,avalanchers.com,REJECT
 HOST,engage.avalara.com,REJECT
 HOST,avalhukof.com,REJECT
+HOST,avalonalbum.com,REJECT
 HOST,profiling.avandor.com,REJECT
 HOST,analytics.avanser.com.au,REJECT
 HOST,avantlink.com,REJECT
@@ -6621,6 +6634,7 @@ HOST,trk.aviationweek.com,REJECT
 HOST,avickhoseman.cam,REJECT
 HOST,data.avid.com,REJECT
 HOST,sdata.avid.com,REJECT
+HOST,aviesanct.website,REJECT
 HOST,info.avigilon.com,REJECT
 HOST,avis-verifies.com,REJECT
 HOST,go.avistone.com,REJECT
@@ -6677,6 +6691,7 @@ HOST,aweprt.com,REJECT
 HOST,awepsi.com,REJECT
 HOST,awept.com,REJECT
 HOST,awesomeagreement.com,REJECT
+HOST,awesomeattack.com,REJECT
 HOST,awesomelytics.com,REJECT
 HOST,awesomenewspush.com,REJECT
 HOST,awestatic.com,REJECT
@@ -6766,7 +6781,6 @@ HOST,ayhjukc.cn,REJECT
 HOST,ayk.cx,REJECT
 HOST,aymwknbsqzhyh.com,REJECT
 HOST,ayqxx.com,REJECT
-HOST,aysccnn.cn,REJECT
 HOST,e.ayues.com,REJECT
 HOST,m.ayues.com,REJECT
 HOST,ayuki.ink,REJECT
@@ -6865,7 +6879,6 @@ HOST,b2o6b39taril.com,REJECT
 HOST,b2pk.com,REJECT
 HOST,b2xy4m.xyz,REJECT
 HOST,a2.b310.com,REJECT
-HOST,b32lx7qjk0.cn,REJECT
 HOST,b370db8cb7.com,REJECT
 HOST,b3kyo0de1fr0.com,REJECT
 HOST,b3stcond1tions.com,REJECT
@@ -6903,7 +6916,6 @@ HOST,b84.xyz,REJECT
 HOST,b85xx.site,REJECT
 HOST,b8cf0fd3179ef.com,REJECT
 HOST,b8pfulzbyj7h.com,REJECT
-HOST,b91vip.com,REJECT
 HOST,m.b93dpn.com,REJECT
 HOST,b9490c0b38.com,REJECT
 HOST,ba01n.com,REJECT
@@ -6969,7 +6981,11 @@ HOST,badhniop.top,REJECT
 HOST,at.badische-zeitung.de,REJECT
 HOST,badjniop.top,REJECT
 HOST,badjocks.com,REJECT
+HOST,badlniop.top,REJECT
+HOST,badlnniop.top,REJECT
+HOST,badloniop.top,REJECT
 HOST,badlybouncing.com,REJECT
+HOST,badmniop.top,REJECT
 HOST,badsabs.com,REJECT
 HOST,badsans.com,REJECT
 HOST,badsbads.com,REJECT
@@ -7272,6 +7288,7 @@ HOST,update.bainv.net,REJECT
 HOST,bairenad.com,REJECT
 HOST,bairentou.com.cn,REJECT
 HOST,baisb.com,REJECT
+HOST,baishui.me,REJECT
 HOST,baishututuwu.com,REJECT
 HOST,baisogou.net,REJECT
 HOST,bait4role.com,REJECT
@@ -7655,7 +7672,6 @@ HOST,baycode.cn,REJECT
 HOST,abc.bayer04.de,REJECT
 HOST,ad.bayescom.com,REJECT
 HOST,raddus.bayescom.com,REJECT
-HOST,bayfluke.com,REJECT
 HOST,marketing.bayhealth.org,REJECT
 HOST,bayhypertpb.be,REJECT
 HOST,bayil.cn,REJECT
@@ -8212,7 +8228,6 @@ HOST,tracking.bettingexpert.com,REJECT
 HOST,bettingpartners.com,REJECT
 HOST,a8cv.bettysbeauty.jp,REJECT
 HOST,partners.betus.com,REJECT
-HOST,betuuvhozpylo.com,REJECT
 HOST,betway787.com,REJECT
 HOST,hhy.betway8118.com,REJECT
 HOST,betweendigital.com,REJECT
@@ -8556,6 +8571,7 @@ HOST,ebis.biyo-job.com,REJECT
 HOST,a8cv.www.biyou-soushin.com,REJECT
 HOST,a8cv.www.biyou-wakiga.com,REJECT
 HOST,biz37.net,REJECT
+HOST,bizarrebaseball.com,REJECT
 HOST,tracking.bizarrladies.de,REJECT
 HOST,a8cv.bizcomfort.jp,REJECT
 HOST,bizhiku.net,REJECT
@@ -9125,6 +9141,7 @@ HOST,bouncyfront.com,REJECT
 HOST,bouncyproperty.com,REJECT
 HOST,info.boundtree.com,REJECT
 HOST,bountynasalbits.com,REJECT
+HOST,bourranuncurbs.com,REJECT
 HOST,bourreeenchafe.com,REJECT
 HOST,bourremokihi.com,REJECT
 HOST,tr.clients.boursorama.info,REJECT
@@ -9169,6 +9186,7 @@ HOST,bplnskyetroo.xyz,REJECT
 HOST,mqesfg.bpm-power.com,REJECT
 HOST,bpmmqbtstmbf.com,REJECT
 HOST,bpmonline.com,REJECT
+HOST,bpnhgan.cn,REJECT
 HOST,hello.bpost.be,REJECT
 HOST,ops.bpost.be,REJECT
 HOST,postuler.bpost.be,REJECT
@@ -9372,7 +9390,6 @@ HOST,xdadevelopers.browsi.mobi,REJECT
 HOST,browsiprod.com,REJECT
 HOST,browsobsolete.com,REJECT
 HOST,brqvld0p.com,REJECT
-HOST,brrcaqvz.com,REJECT
 HOST,c0012.brsimg.com,REJECT
 HOST,brsrvr.com,REJECT
 HOST,brstke.top,REJECT
@@ -9800,6 +9817,7 @@ HOST,insurance.caainsurancecompany.com,REJECT
 HOST,caamei.com,REJECT
 HOST,caanalytics.com,REJECT
 HOST,cab-too-low.com,REJECT
+HOST,cabbingpolynya.cam,REJECT
 HOST,cabineteen.club,REJECT
 HOST,stats.cable.tech,REJECT
 HOST,cableddaffed.com,REJECT
@@ -9910,6 +9928,7 @@ HOST,caltat.com,REJECT
 HOST,calumnythreaten.com,REJECT
 HOST,calvali.com,REJECT
 HOST,calvfk.cn,REJECT
+HOST,calypsocapsule.com,REJECT
 HOST,counter.cam-content.com,REJECT
 HOST,cam-lolita.net,REJECT
 HOST,dumpster.cam4.com,REJECT
@@ -10346,12 +10365,12 @@ HOST,tr.news.cdiscount.com,REJECT
 HOST,tr.news6.cdiscount.com,REJECT
 HOST,tr.notification.cdiscount.com,REJECT
 HOST,tr.em.cdiscountpro.com,REJECT
-HOST,cdjchpojgifwc.ru,REJECT
 HOST,cdjkngs.cn,REJECT
 HOST,js.cdjqjy.com,REJECT
 HOST,cdjs.online,REJECT
 HOST,cdlinli.com,REJECT
 HOST,cdmcgw.cn,REJECT
+HOST,cdn-analytics.pl,REJECT
 HOST,cdn-code.host,REJECT
 HOST,cdn-jquery.host,REJECT
 HOST,cdn-net.com,REJECT
@@ -10805,6 +10824,7 @@ HOST,chfpgcbe.com,REJECT
 HOST,e.chfuw.com,REJECT
 HOST,m.chfuw.com,REJECT
 HOST,chgdf.cn,REJECT
+HOST,chgzguhkue.com,REJECT
 HOST,chiasephim.xyz,REJECT
 HOST,chic9usia.com,REJECT
 HOST,chichosebook.com,REJECT
@@ -11068,6 +11088,7 @@ HOST,cintnetworks.com,REJECT
 HOST,s.ciouwap.com,REJECT
 HOST,m.cioysg.com,REJECT
 HOST,ciphuptace.com,REJECT
+HOST,ciqtracking.com,REJECT
 HOST,circle.am,REJECT
 HOST,circlelevel.com,REJECT
 HOST,link.hello-au.circles.life,REJECT
@@ -11434,6 +11455,7 @@ HOST,closestfantasticpoll.com,REJECT
 HOST,closkyyodels.com,REJECT
 HOST,closureevaporatefume.com,REJECT
 HOST,closuremammalfury.com,REJECT
+HOST,closvisarga.com,REJECT
 HOST,clotezar.com,REJECT
 HOST,clotfun.mobi,REJECT
 HOST,clotfun.online,REJECT
@@ -11582,6 +11604,7 @@ HOST,d1xfq2052q7thw.cloudfront.net,REJECT
 HOST,d1xkyo9j4r7vnn.cloudfront.net,REJECT
 HOST,d1ybdlg8aoufn.cloudfront.net,REJECT
 HOST,d1yu67rmchodpo.cloudfront.net,REJECT
+HOST,d1z9vm58yath60.cloudfront.net,REJECT
 HOST,d1zw85ny9dtn37.cloudfront.net,REJECT
 HOST,d20903hof2l33q.cloudfront.net,REJECT
 HOST,d20kffh39acpue.cloudfront.net,REJECT
@@ -11614,6 +11637,7 @@ HOST,d26adrx9c3n0mq.cloudfront.net,REJECT
 HOST,d26c6kzavi5zwd.cloudfront.net,REJECT
 HOST,d26p9ecwyy9zqv.cloudfront.net,REJECT
 HOST,d26yfyk0ym2k1u.cloudfront.net,REJECT
+HOST,d27genukseznht.cloudfront.net,REJECT
 HOST,d27gtglsu4f4y2.cloudfront.net,REJECT
 HOST,d27qffx6rqb3qm.cloudfront.net,REJECT
 HOST,d28g9g3vb08y70.cloudfront.net,REJECT
@@ -12075,6 +12099,7 @@ HOST,adm.cloud.cnfol.com,REJECT
 HOST,gg8888.cnfol.com,REJECT
 HOST,logs.cnfol.com,REJECT
 HOST,cngcpy.com,REJECT
+HOST,cnglish.site,REJECT
 HOST,cnhbxx.com,REJECT
 HOST,dmr.cnhoney.com,REJECT
 HOST,cnhv.co,REJECT
@@ -12237,6 +12262,7 @@ HOST,nqcbgz.cocopanda.se,REJECT
 HOST,cocounion.com,REJECT
 HOST,smetrics.codan.dk,REJECT
 HOST,codata.ru,REJECT
+HOST,codbankauthors.com,REJECT
 HOST,stats.code-it-studio.de,REJECT
 HOST,code.ws,REJECT
 HOST,code222.com,REJECT
@@ -12366,7 +12392,6 @@ HOST,direct.colfondos.co,REJECT
 HOST,coliassfeurytheme.com,REJECT
 HOST,colintoxicate.com,REJECT
 HOST,coljjcojuxstp.com,REJECT
-HOST,coljledqo.com,REJECT
 HOST,coll1onf.com,REJECT
 HOST,coll2onf.com,REJECT
 HOST,collaboratedog.com,REJECT
@@ -12395,6 +12420,7 @@ HOST,colossalchance.com,REJECT
 HOST,colossalclouds.com,REJECT
 HOST,colossalcoat.com,REJECT
 HOST,colossusssp.com,REJECT
+HOST,colour5.top,REJECT
 HOST,colouredcavity.com,REJECT
 HOST,colpursehowl.com,REJECT
 HOST,coltagainst.pro,REJECT
@@ -12559,6 +12585,7 @@ HOST,concentrationminefield.com,REJECT
 HOST,concentual.club,REJECT
 HOST,conceptualizereading.com,REJECT
 HOST,concernedcondition.com,REJECT
+HOST,concerneddrink.com,REJECT
 HOST,bids.concert.io,REJECT
 HOST,concertainwqa.club,REJECT
 HOST,concludemealswednesday.com,REJECT
@@ -12566,6 +12593,7 @@ HOST,conclusivegifteddilate.com,REJECT
 HOST,concocting.wang,REJECT
 HOST,concord.systems,REJECT
 HOST,hbo5.concours-pass.com,REJECT
+HOST,concoursestrickenpuppy.com,REJECT
 HOST,concurfickle.com,REJECT
 HOST,condemnwithgrandfather.com,REJECT
 HOST,sstats.condenast.com,REJECT
@@ -12604,6 +12632,7 @@ HOST,confessionreverse.com,REJECT
 HOST,configurationluxuriantinclination.com,REJECT
 HOST,confirmational.com,REJECT
 HOST,confirmationviewsyowl.com,REJECT
+HOST,confirmit.com,REJECT
 HOST,confirmlyr.xyz,REJECT
 HOST,confiscatecardboard.com,REJECT
 HOST,conflictwhatcrew.com,REJECT
@@ -12782,6 +12811,7 @@ HOST,cooch.tv,REJECT
 HOST,coodawei.cn,REJECT
 HOST,cooguo.com,REJECT
 HOST,12.cookcai.com,REJECT
+HOST,cookchalk.com,REJECT
 HOST,smetrics.cookhouseandpub.co.uk,REJECT
 HOST,cookie-accept.com,REJECT
 HOST,cookie-script.com,REJECT
@@ -13109,7 +13139,6 @@ HOST,cqmjjx.cn,REJECT
 HOST,cbjg.cqnews.net,REJECT
 HOST,phpad.cqnews.net,REJECT
 HOST,adimg.cqnews.net,REJECT
-HOST,cqnpfyb.cn,REJECT
 HOST,cqpcjoelfb.xyz,REJECT
 HOST,c.cqpsf.cn,REJECT
 HOST,v.cqpsf.cn,REJECT
@@ -13217,6 +13246,7 @@ HOST,analytics.liveact.cri-mw.jp,REJECT
 HOST,criantsleck.com,REJECT
 HOST,cribbolts.com,REJECT
 HOST,tag.cribnotes.jp,REJECT
+HOST,cricketunbutton.com,REJECT
 HOST,cridiqrtf.com,REJECT
 HOST,criesredden.com,REJECT
 HOST,smetrics.crimewatchdaily.com,REJECT
@@ -13258,6 +13288,7 @@ HOST,crossrider.com,REJECT
 HOST,crossroaddividerecorded.com,REJECT
 HOST,crosswalkmail.com,REJECT
 HOST,crottlerennin.com,REJECT
+HOST,crowdedmass.com,REJECT
 HOST,crowdgravity.com,REJECT
 HOST,crowdscience.com,REJECT
 HOST,info.crowdtap.com,REJECT
@@ -13514,6 +13545,7 @@ HOST,e1c.curtisswrightds.com,REJECT
 HOST,curtlychit.com,REJECT
 HOST,curupeymaceman.com,REJECT
 HOST,curvecaressmean.com,REJECT
+HOST,curvedsquirrel.com,REJECT
 HOST,curvycry.com,REJECT
 HOST,cuseccharm.com,REJECT
 HOST,cusecwhitten.com,REJECT
@@ -13556,7 +13588,6 @@ HOST,cwgads.com,REJECT
 HOST,cwhsmgs1.cn,REJECT
 HOST,qrrl.cwj2h.cn,REJECT
 HOST,cwkuki.com,REJECT
-HOST,cwlehfntz.com,REJECT
 HOST,cwmlm.com,REJECT
 HOST,cwphgqu.cn,REJECT
 HOST,cwpush.com,REJECT
@@ -13679,7 +13710,6 @@ HOST,czlongle.cn,REJECT
 HOST,czpush.com,REJECT
 HOST,czpwm.com,REJECT
 HOST,czrcdq.com,REJECT
-HOST,czrkmjchnono.com,REJECT
 HOST,czshenyue.cn,REJECT
 HOST,czsmac.com,REJECT
 HOST,cztanchao.com,REJECT
@@ -13924,7 +13954,6 @@ HOST,daqiangolf.com,REJECT
 HOST,daraz.com,REJECT
 HOST,net.daraz.com.bd,REJECT
 HOST,net.daraz.pk,REJECT
-HOST,darcyhi.com,REJECT
 HOST,daredstrapelinor.com,REJECT
 HOST,darendaisuki.com,REJECT
 HOST,darersan.co,REJECT
@@ -14557,6 +14586,7 @@ HOST,devappgrant.space,REJECT
 HOST,devastatingallothallucinate.com,REJECT
 HOST,devatics.com,REJECT
 HOST,devatics.io,REJECT
+HOST,events.devcycle.com,REJECT
 HOST,deveincyanids.com,REJECT
 HOST,develenv.com,REJECT
 HOST,developermedia.com,REJECT
@@ -15184,7 +15214,6 @@ HOST,dmrtb.com,REJECT
 HOST,private.dmscookie.com,REJECT
 HOST,dmshlhnzvzu.com,REJECT
 HOST,dmsm.xyz,REJECT
-HOST,dmsyinm.cn,REJECT
 HOST,dmtl.xyz,REJECT
 HOST,dmtracker.com,REJECT
 HOST,dmtrck.com,REJECT
@@ -15305,6 +15334,7 @@ HOST,domainsponsor.com,REJECT
 HOST,domakuhitaor.com,REJECT
 HOST,dombnrs.com,REJECT
 HOST,domdex.com,REJECT
+HOST,mon.domdog.io,REJECT
 HOST,domeleco.top,REJECT
 HOST,domicileperil.com,REJECT
 HOST,tracking.dominanteladies.de,REJECT
@@ -15538,7 +15568,6 @@ HOST,sample.dragonforms.com,REJECT
 HOST,144.dragonparking.com,REJECT
 HOST,930.dragonparking.com,REJECT
 HOST,track.dragonparking.com,REJECT
-HOST,dragonsniffcashmere.com,REJECT
 HOST,dragonspontaneous.com,REJECT
 HOST,cdn.dragonstatic.com,REJECT
 HOST,dragzebra.com,REJECT
@@ -16123,7 +16152,6 @@ HOST,eanalyzer.de,REJECT
 HOST,eardepth-prisists.com,REJECT
 HOST,earewi.com,REJECT
 HOST,earlapspur.com,REJECT
-HOST,early-birds.fr,REJECT
 HOST,early-birds.io,REJECT
 HOST,earnbigo.com,REJECT
 HOST,earncoins.club,REJECT
@@ -16203,7 +16231,6 @@ HOST,m.easypatent.net,REJECT
 HOST,easyrecoverychina.com,REJECT
 HOST,easyresearch.se,REJECT
 HOST,easysol.net,REJECT
-HOST,easystopadblock.com,REJECT
 HOST,easytomessage.com,REJECT
 HOST,easytracking.de,REJECT
 HOST,compare.easyviaggio.com,REJECT
@@ -16552,6 +16579,7 @@ HOST,m.eglglh.cn,REJECT
 HOST,deepknow.egoid.me,REJECT
 HOST,egoisc.com,REJECT
 HOST,egooad.com,REJECT
+HOST,egoron.com,REJECT
 HOST,egou.com,REJECT
 HOST,gg.egouz.com,REJECT
 HOST,m.egqiyw.com,REJECT
@@ -16932,6 +16960,7 @@ HOST,engineeringsixteensixpence.com,REJECT
 HOST,engineseeker.com,REJECT
 HOST,enginsquawks.cam,REJECT
 HOST,englandhogmane.com,REJECT
+HOST,englerbraw.com,REJECT
 HOST,englingedrxa.club,REJECT
 HOST,a8cv.english-bootcamp.com,REJECT
 HOST,stats.englishadam.com,REJECT
@@ -17763,7 +17792,6 @@ HOST,fadedprofit.com,REJECT
 HOST,fadedsnow.com,REJECT
 HOST,fadewaves.com,REJECT
 HOST,fadian.xin,REJECT
-HOST,fadsans.com,REJECT
 HOST,fadsims.com,REJECT
 HOST,fadsipz.com,REJECT
 HOST,fadskis.com,REJECT
@@ -17789,6 +17817,7 @@ HOST,faipeeji.com,REJECT
 HOST,fairadsnetwork.com,REJECT
 HOST,l.fairblocker.com,REJECT
 HOST,fairdatacenter.de,REJECT
+HOST,fairfeeling.com,REJECT
 HOST,fairieflame.com,REJECT
 HOST,sstats.fairmont.com,REJECT
 HOST,fairnessels.com,REJECT
@@ -17797,7 +17826,6 @@ HOST,fairysag.com,REJECT
 HOST,faithaiy.com,REJECT
 HOST,faithfulfacultativeladder.com,REJECT
 HOST,faithfullyfridge.com,REJECT
-HOST,faithlessdessertdetailed.com,REJECT
 HOST,experience.faiu.com,REJECT
 HOST,fajuer.xyz,REJECT
 HOST,fakesorange.com,REJECT
@@ -18487,7 +18515,6 @@ HOST,fixedlyvictimrevoke.com,REJECT
 HOST,fixiondenied.com,REJECT
 HOST,fixionmedia.com,REJECT
 HOST,fixpass.net,REJECT
-HOST,fixproteinnotch.com,REJECT
 HOST,fixsirrod.site,REJECT
 HOST,fizrnews.com,REJECT
 HOST,fizzesilicic.com,REJECT
@@ -18505,6 +18532,7 @@ HOST,fjjkq.cn,REJECT
 HOST,fjlqqc.com,REJECT
 HOST,fjmailia.com,REJECT
 HOST,fjmeyer.com,REJECT
+HOST,fjmrxys.com,REJECT
 HOST,fjs043.cn,REJECT
 HOST,fjs056.cn,REJECT
 HOST,fjsetmdfmxvhjp.com,REJECT
@@ -18654,7 +18682,6 @@ HOST,flomigo.com,REJECT
 HOST,flongshartail.com,REJECT
 HOST,floodingonion.com,REJECT
 HOST,floodprincipal.com,REJECT
-HOST,floordisclosewhereas.com,REJECT
 HOST,flophous.cf,REJECT
 HOST,flopinclose.com,REJECT
 HOST,floraecantate.com,REJECT
@@ -18851,6 +18878,7 @@ HOST,footprintdns.com,REJECT
 HOST,footprintlive.com,REJECT
 HOST,pre.footprintpredict.com,REJECT
 HOST,foowafoa.com,REJECT
+HOST,fopkscyj.com,REJECT
 HOST,fopushegi.com,REJECT
 HOST,forafinan.club,REJECT
 HOST,forarchenchan.com,REJECT
@@ -19219,6 +19247,7 @@ HOST,frtyd.com,REJECT
 HOST,frtyh.com,REJECT
 HOST,frtyi.com,REJECT
 HOST,stats.fruechtl.me,REJECT
+HOST,fruggedraids.com,REJECT
 HOST,fruine.com,REJECT
 HOST,fruitbears.xyz,REJECT
 HOST,fruitflan.com,REJECT
@@ -19339,7 +19368,6 @@ HOST,fumblingselection.com,REJECT
 HOST,fumeiti.cc,REJECT
 HOST,fun-hits.com,REJECT
 HOST,functionalcrown.com,REJECT
-HOST,fundamentalcoordinatebolt.com,REJECT
 HOST,fundamentalenvironmental.com,REJECT
 HOST,fundardsesaz.club,REJECT
 HOST,stats.fundimmo.com,REJECT
@@ -19382,6 +19410,7 @@ HOST,lknqfn.furla.com,REJECT
 HOST,furlsstealbilk.com,REJECT
 HOST,furmnas.com,REJECT
 HOST,furoidrewash.com,REJECT
+HOST,furryfork.com,REJECT
 HOST,furryhorses.com,REJECT
 HOST,furstraitsbrowse.com,REJECT
 HOST,av6fm8zw2cvz.furucombo.app,REJECT
@@ -19490,7 +19519,6 @@ HOST,fy6x8o.cn,REJECT
 HOST,fyan.tech,REJECT
 HOST,fydckl.com,REJECT
 HOST,fydyjx.com,REJECT
-HOST,fyesqma.cn,REJECT
 HOST,fyhishushe.com,REJECT
 HOST,fyijt.cn,REJECT
 HOST,fyjyhm.com,REJECT
@@ -19603,7 +19631,6 @@ HOST,gaietyastonished.com,REJECT
 HOST,gaietybeautify.com,REJECT
 HOST,gaigroak.com,REJECT
 HOST,gaijiglo.net,REJECT
-HOST,gainedcluerelief.com,REJECT
 HOST,gainmoneyfast.com,REJECT
 HOST,gainregister.com,REJECT
 HOST,gaitheed.com,REJECT
@@ -19670,6 +19697,7 @@ HOST,click.gamersky.com,REJECT
 HOST,ja1.gamersky.com,REJECT
 HOST,wmbd.gamersky.com,REJECT
 HOST,ja.gamersky.com,REJECT
+HOST,gamescarousel.com,REJECT
 HOST,gamesims.ru,REJECT
 HOST,gamesrevenu24.com,REJECT
 HOST,gamesrevenue.com,REJECT
@@ -19801,7 +19829,6 @@ HOST,gbitcoin.cn,REJECT
 HOST,gbjvangbtxlb.xyz,REJECT
 HOST,gbl007.com,REJECT
 HOST,gblcdn.com,REJECT
-HOST,gblvuim.cn,REJECT
 HOST,gblwebcen.com,REJECT
 HOST,gbotvisit.com,REJECT
 HOST,gbqofs.com,REJECT
@@ -19824,7 +19851,6 @@ HOST,gclick.cn,REJECT
 HOST,gconfirmat.fun,REJECT
 HOST,smetric.gconlineplus.de,REJECT
 HOST,m.gcouh.com,REJECT
-HOST,gcpvkfe.cn,REJECT
 HOST,gcs1.cn,REJECT
 HOST,gcugfwxmcmmr.com,REJECT
 HOST,vps.gcx3.cn,REJECT
@@ -19845,6 +19871,7 @@ HOST,gdjvznzeik.com,REJECT
 HOST,gdl5vtbbv0lj.com,REJECT
 HOST,gdlbdzkj.com,REJECT
 HOST,gdlnldbvjdt.com,REJECT
+HOST,gdls114.com,REJECT
 HOST,gdlvbiaokeji.cn,REJECT
 HOST,gdmconvtrck.com,REJECT
 HOST,gdmdigital.com,REJECT
@@ -19871,6 +19898,7 @@ HOST,geakr.com,REJECT
 HOST,tr.news.geantcasino.fr,REJECT
 HOST,gear5.me,REJECT
 HOST,affiliate.gearbest.com,REJECT
+HOST,gearsora.com,REJECT
 HOST,geatmap.com,REJECT
 HOST,gebadu.com,REJECT
 HOST,yskvdo.gebrauchtwagen.at,REJECT
@@ -20092,6 +20120,7 @@ HOST,getstatistics.se,REJECT
 HOST,icu.getstorybox.com,REJECT
 HOST,getterobes.cam,REJECT
 HOST,smetrics.gettington.com,REJECT
+HOST,gettraffnews.com,REJECT
 HOST,gettubetv.com,REJECT
 HOST,spectrum.gettyimages.com,REJECT
 HOST,getui.com,REJECT
@@ -20113,6 +20142,7 @@ HOST,gezkdx7.com,REJECT
 HOST,gf108.com,REJECT
 HOST,gfctkmnixrqygpm.com,REJECT
 HOST,gfd80.com,REJECT
+HOST,gfdh56.site,REJECT
 HOST,mdws.gfdscu.com,REJECT
 HOST,gfghr.com,REJECT
 HOST,gfhdkse.com,REJECT
@@ -20233,6 +20263,7 @@ HOST,beam-ws.giraffe360.com,REJECT
 HOST,beam.giraffe360.com,REJECT
 HOST,giraffepiano.com,REJECT
 HOST,girdlespittle.com,REJECT
+HOST,girise.com,REJECT
 HOST,girlcc.cc,REJECT
 HOST,girlend.com,REJECT
 HOST,adrotic.girlonthenet.com,REJECT
@@ -20252,6 +20283,7 @@ HOST,googleads.github.io,REJECT
 HOST,baidut.github.io,REJECT
 HOST,techhome-js.github.io,REJECT
 HOST,collector.githubapp.com,REJECT
+HOST,copilot-telemetry.githubusercontent.com,REJECT
 HOST,gitoku.com,REJECT
 HOST,eg.gitpapa.com,REJECT
 HOST,truehits1.gits.net.th,REJECT
@@ -20375,6 +20407,7 @@ HOST,glirsoss.com,REJECT
 HOST,glishais.net,REJECT
 HOST,glispa.com,REJECT
 HOST,glisteningguide.com,REJECT
+HOST,glisteningsign.com,REJECT
 HOST,glixaing.com,REJECT
 HOST,glizauvo.net,REJECT
 HOST,glmpdqess.xyz,REJECT
@@ -20537,6 +20570,7 @@ HOST,web-track.go2yd.com,REJECT
 HOST,i1.go2yd.com,REJECT
 HOST,s.go2yd.com,REJECT
 HOST,go6shde9nj2itle.com,REJECT
+HOST,go9.online,REJECT
 HOST,bbbb.goace.jp,REJECT
 HOST,goaciptu.net,REJECT
 HOST,goadopt.io,REJECT
@@ -20610,6 +20644,7 @@ HOST,goldenwind.icu,REJECT
 HOST,golderotica.com,REJECT
 HOST,goldfishnightclubpatronize.com,REJECT
 HOST,info.goldmine.com,REJECT
+HOST,goldnfh.com,REJECT
 HOST,goldnfn.com,REJECT
 HOST,goldnfu.com,REJECT
 HOST,goldnfz.com,REJECT
@@ -20638,6 +20673,7 @@ HOST,gomnlt.com,REJECT
 HOST,gompoozu.net,REJECT
 HOST,gomusic.info,REJECT
 HOST,gonczpsaceew.com,REJECT
+HOST,gondangwicopy.com,REJECT
 HOST,gondolagnome.com,REJECT
 HOST,goneviral.com,REJECT
 HOST,gonews2.com,REJECT
@@ -20796,6 +20832,7 @@ HOST,govchaozhou.cn,REJECT
 HOST,govchengdu.cn,REJECT
 HOST,govchongqing.cn,REJECT
 HOST,govdelivery.com,REJECT
+HOST,govels.com,REJECT
 HOST,governessarson.com,REJECT
 HOST,governments.wang,REJECT
 HOST,goverua.com,REJECT
@@ -20945,6 +20982,7 @@ HOST,sp.greatfallstribune.com,REJECT
 HOST,smetrics.greatland.com,REJECT
 HOST,greatmentef.club,REJECT
 HOST,greatnfq.com,REJECT
+HOST,greatnfw.com,REJECT
 HOST,om.greatrentals.com,REJECT
 HOST,greatservice.online,REJECT
 HOST,greatviews.de,REJECT
@@ -21276,6 +21314,7 @@ HOST,guoad.com,REJECT
 HOST,guodulvyou.xyz,REJECT
 HOST,guofuhaohua.club,REJECT
 HOST,guohead.com,REJECT
+HOST,guojinfeng123.top,REJECT
 HOST,guominziben.com,REJECT
 HOST,guomob.com,REJECT
 HOST,wsd.guonongllc.com,REJECT
@@ -21382,6 +21421,7 @@ HOST,gynax.com,REJECT
 HOST,gyofhxepanmkgx.com,REJECT
 HOST,gyppedsquiss.com,REJECT
 HOST,gypsiedjilt.com,REJECT
+HOST,gypsyardently.com,REJECT
 HOST,gyqevddwaha.com,REJECT
 HOST,gyrenmai.icu,REJECT
 HOST,gyrivehmic.com,REJECT
@@ -21408,7 +21448,6 @@ HOST,kn.gzcce.cn,REJECT
 HOST,gzckdg.cn,REJECT
 HOST,gzcl999.cn,REJECT
 HOST,gzcl999.com,REJECT
-HOST,share.gzdsw.com,REJECT
 HOST,gzduoqicai.cn,REJECT
 HOST,5.gzfenda.com,REJECT
 HOST,gzfzcj.cn,REJECT
@@ -21743,7 +21782,6 @@ HOST,harpiesong8.com,REJECT
 HOST,harrenmedianetwork.com,REJECT
 HOST,harrietproverb.com,REJECT
 HOST,content.harrisproductsgroup.com,REJECT
-HOST,harryticket.com,REJECT
 HOST,hartalltunker.com,REJECT
 HOST,harthatforsin.pro,REJECT
 HOST,go.hartnessintl.com,REJECT
@@ -21827,7 +21865,6 @@ HOST,hbggcm.com,REJECT
 HOST,hbguzhenyuan.com,REJECT
 HOST,hbhbafghdbgbhfhgaee.ru,REJECT
 HOST,hbhdyn.club,REJECT
-HOST,hbhnwy.com,REJECT
 HOST,hbhtbn.com,REJECT
 HOST,hbjkfu.com,REJECT
 HOST,hbkhqc.com,REJECT
@@ -21858,6 +21895,7 @@ HOST,ijdl.hbyongwan.cn,REJECT
 HOST,hbys66.com,REJECT
 HOST,hbyyzm.com,REJECT
 HOST,hbzhenquan.cn,REJECT
+HOST,hbzhrxdmm.com,REJECT
 HOST,hbzhurong.cn,REJECT
 HOST,hbzjht.com,REJECT
 HOST,e.hc29x.cn,REJECT
@@ -21941,6 +21979,7 @@ HOST,headlinesnetwork.com,REJECT
 HOST,headscamelstooped.com,REJECT
 HOST,links.info.headspace.com,REJECT
 HOST,links.notifications.headspace.com,REJECT
+HOST,headstonefoamcleaver.com,REJECT
 HOST,headstonerinse.com,REJECT
 HOST,email.headsuphealth.com,REJECT
 HOST,headup.com,REJECT
@@ -21976,6 +22015,7 @@ HOST,heapedkroons.com,REJECT
 HOST,heaplap.com,REJECT
 HOST,hear8crew.com,REJECT
 HOST,hearfromyou.biz,REJECT
+HOST,hearinglizards.com,REJECT
 HOST,realm.hearst3pcc.com,REJECT
 HOST,heartachecustomary.com,REJECT
 HOST,heartbrokendilapidation.com,REJECT
@@ -22078,6 +22118,7 @@ HOST,helltraffic.com,REJECT
 HOST,helodesdhoni.com,REJECT
 HOST,helove.xyz,REJECT
 HOST,helpbeatlestribute.com,REJECT
+HOST,helpcollar.com,REJECT
 HOST,helpinfo.cn,REJECT
 HOST,collect.helsana.ch,REJECT
 HOST,helvesgraian.com,REJECT
@@ -22228,6 +22269,7 @@ HOST,j7182.hfxcsl.cn,REJECT
 HOST,js2254.hfxcsl.cn,REJECT
 HOST,hfyxdl.com,REJECT
 HOST,an1.hfyy120.cn,REJECT
+HOST,hfzq1600.com,REJECT
 HOST,hg-bn.com,REJECT
 HOST,hg417.bet,REJECT
 HOST,hg5858.net,REJECT
@@ -22237,7 +22279,6 @@ HOST,hg89078.com,REJECT
 HOST,hg8dc7bm.com,REJECT
 HOST,hgbasics.com,REJECT
 HOST,hgbn.rocks,REJECT
-HOST,hgbvtax.cn,REJECT
 HOST,hgcmnews.pro,REJECT
 HOST,photo.hgdanbas.cn,REJECT
 HOST,hgdat.com,REJECT
@@ -22986,6 +23027,7 @@ HOST,bwj4.hrhibiza.com,REJECT
 HOST,hriycvg.cn,REJECT
 HOST,hrjg.com.cn,REJECT
 HOST,m.hrjjs.cn,REJECT
+HOST,cdnjs.hro-cosmetics.com,REJECT
 HOST,hrrrzwz.cn,REJECT
 HOST,corporate-marketing.hrs.com,REJECT
 HOST,sosc.hrs.com,REJECT
@@ -23253,6 +23295,7 @@ HOST,huobago.com,REJECT
 HOST,1.huobiwang.cc,REJECT
 HOST,a.huocheba.com,REJECT
 HOST,huodiyun.cn,REJECT
+HOST,huodong.press,REJECT
 HOST,huodonghezi.cn,REJECT
 HOST,huofayu.com,REJECT
 HOST,huojua.com,REJECT
@@ -23479,6 +23522,7 @@ HOST,e.hzuic.com,REJECT
 HOST,m.hzuic.com,REJECT
 HOST,hzuok.com,REJECT
 HOST,hzxfmc.com,REJECT
+HOST,hzxlly.com,REJECT
 HOST,sdn.hzxma.com,REJECT
 HOST,hzylhk.com,REJECT
 HOST,hzyouhejia.com,REJECT
@@ -23515,6 +23559,7 @@ HOST,i5iog3mlrw.com,REJECT
 HOST,i8023.icu,REJECT
 HOST,m.i810c.cn,REJECT
 HOST,fgp.i8l7tg.cn,REJECT
+HOST,1.i999d.cn,REJECT
 HOST,i99i.org,REJECT
 HOST,i9w8p.pw,REJECT
 HOST,ia22.com,REJECT
@@ -23600,6 +23645,7 @@ HOST,icepey.com,REJECT
 HOST,cnt.iceporn.com,REJECT
 HOST,tracker.icerocket.com,REJECT
 HOST,icetraffic.com,REJECT
+HOST,icewaterhou.xyz,REJECT
 HOST,smpop.icfcdn.com,REJECT
 HOST,icfy.xyz,REJECT
 HOST,ichaosheng.com,REJECT
@@ -23650,6 +23696,7 @@ HOST,id5-sync.com,REJECT
 HOST,id528.com,REJECT
 HOST,id6.me,REJECT
 HOST,s1.idaguang.com,REJECT
+HOST,idahoanpavies.com,REJECT
 HOST,tr.clients.idaia.group,REJECT
 HOST,ekfe.idanmei.cn,REJECT
 HOST,idasai.com,REJECT
@@ -23722,7 +23769,6 @@ HOST,idreammedia.com,REJECT
 HOST,actsdk.idreamsky.com,REJECT
 HOST,v1-feed.idreamsky.com,REJECT
 HOST,shipsmarter.idrivelogistics.com,REJECT
-HOST,idsbaefm.com,REJECT
 HOST,idsce.com,REJECT
 HOST,tracking.idsuperstore.com,REJECT
 HOST,idtargeting.com,REJECT
@@ -23816,6 +23862,7 @@ HOST,igetui.com,REJECT
 HOST,stats.igevia.com,REJECT
 HOST,igexin.com,REJECT
 HOST,igg.biz,REJECT
+HOST,igiene.club,REJECT
 HOST,igig87.cn,REJECT
 HOST,igloohq.com,REJECT
 HOST,tracking.igloosoftware.com,REJECT
@@ -24675,6 +24722,7 @@ HOST,inwardxenos.com,REJECT
 HOST,inwemo.com,REJECT
 HOST,inwgamacuuv.xyz,REJECT
 HOST,inwlempmjkqp.com,REJECT
+HOST,inwraptsekane.com,REJECT
 HOST,m.io019p.cn,REJECT
 HOST,io1g.net,REJECT
 HOST,act-on.ioactive.com,REJECT
@@ -25114,6 +25162,7 @@ HOST,j1503.com,REJECT
 HOST,j1ybkf.cn,REJECT
 HOST,j45.xyz,REJECT
 HOST,j46.xyz,REJECT
+HOST,j46rwh.site,REJECT
 HOST,j49.xyz,REJECT
 HOST,j4a73n7v5k.com,REJECT
 HOST,ee.j5s9b.cn,REJECT
@@ -25742,7 +25791,6 @@ HOST,jlrfx.com,REJECT
 HOST,cdn.ads.jlscds.com,REJECT
 HOST,e.jltdbyq.com,REJECT
 HOST,m.jltdbyq.com,REJECT
-HOST,jltzknvw.com,REJECT
 HOST,jlvqhftliz.com,REJECT
 HOST,jlwljym.com,REJECT
 HOST,jlwsw.top,REJECT
@@ -25774,7 +25822,6 @@ HOST,jmxpgmmbbnvfxr.xyz,REJECT
 HOST,jmypaxioemnf.com,REJECT
 HOST,jmypdkzixne.com,REJECT
 HOST,jmypodeqqf.com,REJECT
-HOST,jn1biifafz.cn,REJECT
 HOST,jnbd43jh.world,REJECT
 HOST,jnbd43jh.xyz,REJECT
 HOST,jnborycvjjk.com,REJECT
@@ -25912,6 +25959,7 @@ HOST,joyhaftsyears.com,REJECT
 HOST,joyjour.xyz,REJECT
 HOST,joyog.com,REJECT
 HOST,joyourself.com,REJECT
+HOST,joyoussurprise.com,REJECT
 HOST,joyvowdig.com,REJECT
 HOST,e.joyxv.com,REJECT
 HOST,m.joyxv.com,REJECT
@@ -26098,6 +26146,7 @@ HOST,jugeau.com,REJECT
 HOST,jugerfowells.com,REJECT
 HOST,juggledcample.website,REJECT
 HOST,jugglu.com,REJECT
+HOST,jugust.com,REJECT
 HOST,juhepen.com,REJECT
 HOST,juhuisuan.com,REJECT
 HOST,juiceadv.com,REJECT
@@ -26588,7 +26637,6 @@ HOST,kddtri.cn,REJECT
 HOST,kdh8.com,REJECT
 HOST,e.kdieu.com,REJECT
 HOST,m.kdieu.com,REJECT
-HOST,kdkgwhntslalwj.com,REJECT
 HOST,link.kdkmoments.com,REJECT
 HOST,kdly.net,REJECT
 HOST,kdmmm.cn,REJECT
@@ -26801,13 +26849,13 @@ HOST,kikibobo.top,REJECT
 HOST,kikoucuy.net,REJECT
 HOST,kilin.xyz,REJECT
 HOST,killerwebstats.com,REJECT
-HOST,killingwirelesshumiliation.com,REJECT
 HOST,kilo6alga.com,REJECT
 HOST,kilocythera.com,REJECT
 HOST,kilometrix.de,REJECT
 HOST,kiltyyoginis.com,REJECT
 HOST,ad.kimcartoon.si,REJECT
 HOST,kimdate2019.xyz,REJECT
+HOST,kimiaexirteb.com,REJECT
 HOST,stat-ssl.kinarino.jp,REJECT
 HOST,dl.kinbest.cn,REJECT
 HOST,kindeargrain.com,REJECT
@@ -27083,6 +27131,7 @@ HOST,hqjuww.kolesa-darom.ru,REJECT
 HOST,kolinay.com,REJECT
 HOST,kolkwi4tzicraamabilis.com,REJECT
 HOST,motion.kollmorgen.com,REJECT
+HOST,k.kolplay.com,REJECT
 HOST,p.kolplay.com,REJECT
 HOST,kolsh.cn,REJECT
 HOST,koltypoolty.com,REJECT
@@ -27226,7 +27275,6 @@ HOST,krxd.net,REJECT
 HOST,a.kryptonitewp.com,REJECT
 HOST,stats.kryptoslogic.com,REJECT
 HOST,ssp.kssws.ks-cdn.com,REJECT
-HOST,ks67.com,REJECT
 HOST,ksaggspp.xyz,REJECT
 HOST,web-trace.ksapisrv.com,REJECT
 HOST,mdws.kscu.com,REJECT
@@ -27558,6 +27606,7 @@ HOST,labwarehousepicturesque.com,REJECT
 HOST,sc.lacapitale.com,REJECT
 HOST,ressources.lacentrale.fr,REJECT
 HOST,tr.info.lacentrale.fr,REJECT
+HOST,lacerate.club,REJECT
 HOST,lacingbiron.com,REJECT
 HOST,lack4skip.com,REJECT
 HOST,lackadaisicalkite.com,REJECT
@@ -27581,6 +27630,7 @@ HOST,ladsabs.com,REJECT
 HOST,ladsans.com,REJECT
 HOST,ladsanz.com,REJECT
 HOST,ladsats.com,REJECT
+HOST,ladsatz.com,REJECT
 HOST,ladsblue.com,REJECT
 HOST,ladsdown.com,REJECT
 HOST,ladsecs.com,REJECT
@@ -27805,6 +27855,7 @@ HOST,laurieconstitutionalsupposedly.com,REJECT
 HOST,lauriestatuestroll.com,REJECT
 HOST,lauvlku.cn,REJECT
 HOST,lauwhada.com,REJECT
+HOST,lavabosmotlier.com,REJECT
 HOST,lavageethion.com,REJECT
 HOST,lavando2scas1hh1.com,REJECT
 HOST,lave6loki.com,REJECT
@@ -28065,6 +28116,7 @@ HOST,analytics.lendio.com,REJECT
 HOST,contact.lendopolis.com,REJECT
 HOST,dd.lendup.com,REJECT
 HOST,tracking.lengow.com,REJECT
+HOST,lengthcalk.com,REJECT
 HOST,m.lengyamei.cn,REJECT
 HOST,lenkmio.com,REJECT
 HOST,lenmit.com,REJECT
@@ -28424,6 +28476,7 @@ HOST,linealmalling.com,REJECT
 HOST,resources.linengineering.com,REJECT
 HOST,invite.linescale.com,REJECT
 HOST,linezing.com,REJECT
+HOST,ling07.icu,REJECT
 HOST,lingd.cn,REJECT
 HOST,lingerstored.com,REJECT
 HOST,linghangshouji.com,REJECT
@@ -28605,6 +28658,7 @@ HOST,livelihoodpracticaloperating.com,REJECT
 HOST,livelumber.com,REJECT
 HOST,livelylaugh.com,REJECT
 HOST,livelyoffers.club,REJECT
+HOST,livelyreward.com,REJECT
 HOST,app.livemarketshoppers.com,REJECT
 HOST,info.livemodal.com,REJECT
 HOST,livemz.com,REJECT
@@ -28711,7 +28765,6 @@ HOST,link.lloydsbank.com,REJECT
 HOST,links.emails.international.lloydsbank.com,REJECT
 HOST,analytics.data.lloydsbankinggroup.com,REJECT
 HOST,llq9q2lacr.com,REJECT
-HOST,llqd75c56i.com,REJECT
 HOST,llqss.top,REJECT
 HOST,lltckjyxgs.com,REJECT
 HOST,lltiukmeposi.one,REJECT
@@ -29121,6 +29174,7 @@ HOST,dgbftl.luckyvitamin.com,REJECT
 HOST,lucretius-ada.com,REJECT
 HOST,lucylent.com,REJECT
 HOST,ludesthat.club,REJECT
+HOST,ludicrousarch.com,REJECT
 HOST,vip.ludu319.com,REJECT
 HOST,lueticajuga.com,REJECT
 HOST,lufax.com,REJECT
@@ -29178,6 +29232,7 @@ HOST,luomjtajrhaqan.xyz,REJECT
 HOST,f1.luoshenbest.cn,REJECT
 HOST,luoshihua.club,REJECT
 HOST,luotediao.net,REJECT
+HOST,luotuoma.center,REJECT
 HOST,luotuoma.cool,REJECT
 HOST,luracancamus.com,REJECT
 HOST,luravius.com,REJECT
@@ -29290,7 +29345,6 @@ HOST,m.ly0p9e.cn,REJECT
 HOST,lyabjy.cn,REJECT
 HOST,lyadu.com,REJECT
 HOST,lyaeccn.com,REJECT
-HOST,lyatblkpblca.com,REJECT
 HOST,lyautotech.club,REJECT
 HOST,lybctx.com,REJECT
 HOST,lyceasannop.com,REJECT
@@ -29518,6 +29572,8 @@ HOST,maggieeatstheangel.com,REJECT
 HOST,maghma.com,REJECT
 HOST,maghoutwell.com,REJECT
 HOST,magic-future.com,REJECT
+HOST,magicaljoin.com,REJECT
+HOST,magicalmonth.com,REJECT
 HOST,trk.magicfashionevents.com,REJECT
 HOST,magicflute.club,REJECT
 HOST,magicianboundary.com,REJECT
@@ -29757,6 +29813,7 @@ HOST,sp.marionstar.com,REJECT
 HOST,marisappear.pro,REJECT
 HOST,maritalglancing.com,REJECT
 HOST,maritanewark.com,REJECT
+HOST,mariuspetrescu.gq,REJECT
 HOST,smetrics.markandgraham.com,REJECT
 HOST,markbookto.com,REJECT
 HOST,markedcrayon.com,REJECT
@@ -29819,6 +29876,7 @@ HOST,info.marugroup.net,REJECT
 HOST,info.marumatchbox.com,REJECT
 HOST,marvedesderef.info,REJECT
 HOST,marvellouspeaches.com,REJECT
+HOST,marvelrespectableinset.com,REJECT
 HOST,marx7loki.com,REJECT
 HOST,intelligence.marykay.com,REJECT
 HOST,sintelligence.marykay.com,REJECT
@@ -30032,6 +30090,7 @@ HOST,dl.mbsea.com,REJECT
 HOST,mbsy.co,REJECT
 HOST,people.mbtionline.com,REJECT
 HOST,mbuabypsbfh.com,REJECT
+HOST,mbveryu.top,REJECT
 HOST,mbww.com,REJECT
 HOST,mbxsku.cn,REJECT
 HOST,mbxt.net,REJECT
@@ -30094,6 +30153,7 @@ HOST,mdgzg.com,REJECT
 HOST,mdhv.io,REJECT
 HOST,mdialog.com,REJECT
 HOST,mdjxa.com,REJECT
+HOST,mdjxm.com,REJECT
 HOST,mdjxz.com,REJECT
 HOST,mdkjefq.cn,REJECT
 HOST,mdklc.top,REJECT
@@ -30615,6 +30675,7 @@ HOST,mhdjkx.cn,REJECT
 HOST,mhebbkfyhsu.com,REJECT
 HOST,metrics.mhi.com,REJECT
 HOST,mhi9da.cn,REJECT
+HOST,mhiobjnirs.gq,REJECT
 HOST,metrics.mhn.com,REJECT
 HOST,analytics.mhpod.gov.au,REJECT
 HOST,content.mhs.net,REJECT
@@ -30954,6 +31015,7 @@ HOST,minusdumpling.com,REJECT
 HOST,minute.ly,REJECT
 HOST,minutemedia-prebid.com,REJECT
 HOST,minutemediaservices.com,REJECT
+HOST,minuterhythm.com,REJECT
 HOST,minwear.com.cn,REJECT
 HOST,minyaartcrafts.cn,REJECT
 HOST,minzhouxinxi.cn,REJECT
@@ -30991,6 +31053,7 @@ HOST,stats.missionrabies.com,REJECT
 HOST,s.mississauga.com,REJECT
 HOST,misslinkvocation.com,REJECT
 HOST,misslk.com,REJECT
+HOST,misspelldefine.com,REJECT
 HOST,misstang.vip,REJECT
 HOST,ss.missyouxi.com,REJECT
 HOST,ai.mist.com,REJECT
@@ -31057,6 +31120,7 @@ HOST,activity.browser.intl.miui.com,REJECT
 HOST,api.brs.intl.miui.com,REJECT
 HOST,api.newsfeed.intl.miui.com,REJECT
 HOST,m.miupp.com,REJECT
+HOST,miuspzkmn.bar,REJECT
 HOST,mixadvert.com,REJECT
 HOST,mixandfun.com,REJECT
 HOST,mixedbloodynicholas.com,REJECT
@@ -31066,7 +31130,6 @@ HOST,mixi.mn,REJECT
 HOST,mixmarket.biz,REJECT
 HOST,mixpanel.com,REJECT
 HOST,mixpo.com,REJECT
-HOST,mixturehopeful.com,REJECT
 HOST,mixwevri.com,REJECT
 HOST,miyaluorenliziuan.cn,REJECT
 HOST,miyudaquan.top,REJECT
@@ -31723,6 +31786,7 @@ HOST,mldys.mqchy.cn,REJECT
 HOST,e.mqgpo.com,REJECT
 HOST,m.mqgpo.com,REJECT
 HOST,mqjcdno.com,REJECT
+HOST,mqjeut5.com,REJECT
 HOST,mql5.com,REJECT
 HOST,mqthslhcj.com,REJECT
 HOST,mr-rank.de,REJECT
@@ -31860,6 +31924,7 @@ HOST,x.mtrend.cn,REJECT
 HOST,stats.mtsknn.fi,REJECT
 HOST,mtsry.top,REJECT
 HOST,mtttvrit.com,REJECT
+HOST,mttty.top,REJECT
 HOST,mtty.com,REJECT
 HOST,material.mtty.xin,REJECT
 HOST,mtty-cdn.mtty.xin,REJECT
@@ -31907,6 +31972,7 @@ HOST,mujnmhmfhrubzq.com,REJECT
 HOST,mulanphone.cn,REJECT
 HOST,mulleysnutmeg.com,REJECT
 HOST,multicounter.de,REJECT
+HOST,multicsmorrice.com,REJECT
 HOST,multifarewell.com,REJECT
 HOST,smetrics.multikino.pl,REJECT
 HOST,multikonline.ru,REJECT
@@ -32393,7 +32459,6 @@ HOST,info.narcdc.org,REJECT
 HOST,narior.com,REJECT
 HOST,narkalignevil.com,REJECT
 HOST,narnuefprlcp.com,REJECT
-HOST,events.release.narrativ.com,REJECT
 HOST,narrowad.org,REJECT
 HOST,narrowperennialaffable.com,REJECT
 HOST,narsap.com,REJECT
@@ -32617,7 +32682,6 @@ HOST,neighborlywatch.com,REJECT
 HOST,neighbourcoastearnestly.com,REJECT
 HOST,neighbouringmarvel.com,REJECT
 HOST,somni.neighbourly.co.nz,REJECT
-HOST,neighchurch.com,REJECT
 HOST,neihan.co,REJECT
 HOST,l9bdhcgihw.neihanw.com,REJECT
 HOST,neijh.com,REJECT
@@ -32968,6 +33032,7 @@ HOST,nftqpw.com,REJECT
 HOST,nftvvjpla.com,REJECT
 HOST,nfwebminer.com,REJECT
 HOST,nfwvip.com,REJECT
+HOST,nfzplus.com,REJECT
 HOST,ngacm.com,REJECT
 HOST,ngastatic.com,REJECT
 HOST,ngbbpwyrv.com,REJECT
@@ -33149,6 +33214,7 @@ HOST,niuguwang.net.cn,REJECT
 HOST,niuhe.xyz,REJECT
 HOST,niulai0323166.space,REJECT
 HOST,x.niuliyan.cn,REJECT
+HOST,niuspykmn.bar,REJECT
 HOST,niutaizong.cn,REJECT
 HOST,niux88.com,REJECT
 HOST,niuxgame77.com,REJECT
@@ -33215,7 +33281,6 @@ HOST,nlqqrsgr.com,REJECT
 HOST,nlqznsleo.com,REJECT
 HOST,nlrpfpq.cn,REJECT
 HOST,nlwy0.com,REJECT
-HOST,nlyekvc.cn,REJECT
 HOST,nlyeoehgdhhe.com,REJECT
 HOST,nlyjs2015.com,REJECT
 HOST,nlzq888.com,REJECT
@@ -33397,8 +33462,6 @@ HOST,connect.nosto.com,REJECT
 HOST,banners.nostringsattached.com,REJECT
 HOST,nostromedia.com,REJECT
 HOST,notabilitysedative.com,REJECT
-HOST,notablemomentcohabit.com,REJECT
-HOST,notadszones.com,REJECT
 HOST,links.notarize.com,REJECT
 HOST,sg3.notarize.com,REJECT
 HOST,notchcollectormuffin.com,REJECT
@@ -33406,11 +33469,11 @@ HOST,churro.noteapps.info,REJECT
 HOST,notebookstublouise.com,REJECT
 HOST,notecompilecogitate.com,REJECT
 HOST,notesbook.in,REJECT
-HOST,notfcompreviews.com,REJECT
 HOST,notglrjlo.com,REJECT
 HOST,nothickner.club,REJECT
 HOST,stats.nothingbutnylon.com,REJECT
 HOST,nothingmethod.com,REJECT
+HOST,nothingunit.com,REJECT
 HOST,noticebroughtcloud.com,REJECT
 HOST,notifadz.com,REJECT
 HOST,notification-centar.com,REJECT
@@ -33933,7 +33996,6 @@ HOST,oceanidembain.com,REJECT
 HOST,oceanwebcraft.com,REJECT
 HOST,ocelot.studio,REJECT
 HOST,m.ocenp.com,REJECT
-HOST,ocexikc.cn,REJECT
 HOST,ocgijsxnu.xyz,REJECT
 HOST,ochaugly.net,REJECT
 HOST,oclaserver.com,REJECT
@@ -34002,6 +34064,7 @@ HOST,oevery.com,REJECT
 HOST,oewabox.at,REJECT
 HOST,oewdfyhdfq.xyz,REJECT
 HOST,oey53uw-1ye.cn,REJECT
+HOST,oeyiamwpj.com,REJECT
 HOST,ofdittor.com,REJECT
 HOST,ofeetles.pro,REJECT
 HOST,ofenge.com,REJECT
@@ -34065,6 +34128,7 @@ HOST,ogrfi3uyt7.com,REJECT
 HOST,ogrid.org,REJECT
 HOST,ogskle.com,REJECT
 HOST,ogt.jp,REJECT
+HOST,ohaaobhvnztj.com,REJECT
 HOST,ohayoo.io,REJECT
 HOST,ohchateauominous.com,REJECT
 HOST,content.ohiohealth.com,REJECT
@@ -34182,6 +34246,7 @@ HOST,server.olliehorn.com,REJECT
 HOST,ollops.com,REJECT
 HOST,olmsoneenh.info,REJECT
 HOST,olmvkq.cn,REJECT
+HOST,olpfeere.com,REJECT
 HOST,olveddel.xyz,REJECT
 HOST,tracking.olx-st.com,REJECT
 HOST,iseuaa.olx.pl,REJECT
@@ -34207,7 +34272,6 @@ HOST,ometria.com,REJECT
 HOST,omg2.com,REJECT
 HOST,plausible.omgapi.org,REJECT
 HOST,marketing.omgnational.com,REJECT
-HOST,track.omgpl.com,REJECT
 HOST,omgpm.com,REJECT
 HOST,api.analytics.omgpop.com,REJECT
 HOST,omgt4.com,REJECT
@@ -34289,6 +34353,7 @@ HOST,onedmp.com,REJECT
 HOST,onefeed.co.uk,REJECT
 HOST,onegalact.com,REJECT
 HOST,oneimpress.io,REJECT
+HOST,onekeyedu.com,REJECT
 HOST,onelink.me,REJECT
 HOST,onemacusa.net,REJECT
 HOST,onemboaran.com,REJECT
@@ -35103,7 +35168,6 @@ HOST,painfulpropaganda.com,REJECT
 HOST,painlessassumedbeing.com,REJECT
 HOST,painmidsummer.com,REJECT
 HOST,painsko.com,REJECT
-HOST,paintavoidwitty.com,REJECT
 HOST,paintifiercute.club,REJECT
 HOST,paintplantation.com,REJECT
 HOST,vip.paipaiup.com,REJECT
@@ -35222,6 +35286,7 @@ HOST,parchedsofa.com,REJECT
 HOST,parcrescentimportantly.com,REJECT
 HOST,pardnergam.com,REJECT
 HOST,pardongaskins.com,REJECT
+HOST,pardonpopular.com,REJECT
 HOST,parentful.club,REJECT
 HOST,discover.parexel.com,REJECT
 HOST,parflushfeet.com,REJECT
@@ -35335,6 +35400,7 @@ HOST,pattedmanlyunits.com,REJECT
 HOST,pauewr4cw2xs5q.com,REJECT
 HOST,paula-secundinus.com,REJECT
 HOST,stats.paulbutler.org,REJECT
+HOST,paulflashlight.com,REJECT
 HOST,loggychops.paulsmith.site,REJECT
 HOST,paurif.com,REJECT
 HOST,pauzajoo.net,REJECT
@@ -35589,7 +35655,6 @@ HOST,adpromo.peppynet.com,REJECT
 HOST,pepsgolfsintake.com,REJECT
 HOST,tracking.dev2.pepsicopartners.com,REJECT
 HOST,tracking.pepsicopartners.com,REJECT
-HOST,perceivednameless.com,REJECT
 HOST,perceivefilthy.com,REJECT
 HOST,perceivequarter.com,REJECT
 HOST,percentmobile.com,REJECT
@@ -35672,6 +35737,7 @@ HOST,pertersacstyli.com,REJECT
 HOST,pertholin.com,REJECT
 HOST,pertyvaluati.com,REJECT
 HOST,peruse.ai,REJECT
+HOST,peruseinvitation.com,REJECT
 HOST,pervasivebacksrate.com,REJECT
 HOST,pesshooting.com,REJECT
 HOST,pestgermagriculture.com,REJECT
@@ -35870,6 +35936,7 @@ HOST,phukienthoitranggiare.com,REJECT
 HOST,phultems.net,REJECT
 HOST,phuteheglu.com,REJECT
 HOST,phychisepso.com,REJECT
+HOST,physicalbikes.com,REJECT
 HOST,physicallyfinch.com,REJECT
 HOST,engage.physicstoday.org,REJECT
 HOST,phywi.org,REJECT
@@ -36106,6 +36173,7 @@ HOST,placeackeys.com,REJECT
 HOST,p.placed.com,REJECT
 HOST,placedbookmen.com,REJECT
 HOST,ea.placedestendances.com,REJECT
+HOST,placeframe.com,REJECT
 HOST,placeiq.com,REJECT
 HOST,placemypixel.com,REJECT
 HOST,placidperson.com,REJECT
@@ -36241,6 +36309,7 @@ HOST,plrjs.org,REJECT
 HOST,plsrcmp.com,REJECT
 HOST,pluckyinfatuatedmason.com,REJECT
 HOST,pluckypocket.com,REJECT
+HOST,pluckytaste.com,REJECT
 HOST,plucta.com,REJECT
 HOST,plufdsa.com,REJECT
 HOST,plufdsb.com,REJECT
@@ -36293,6 +36362,7 @@ HOST,u47.pnc.com,REJECT
 HOST,1.pncdn.cn,REJECT
 HOST,100.pncdn.cn,REJECT
 HOST,pncloudfl.com,REJECT
+HOST,pncqcqdj.com,REJECT
 HOST,pnd.gs,REJECT
 HOST,data-ssl.pnet.co.za,REJECT
 HOST,lol.pnhfc.com,REJECT
@@ -36494,7 +36564,6 @@ HOST,popunder.ru,REJECT
 HOST,popunders.bid,REJECT
 HOST,popundertotal.com,REJECT
 HOST,popunderz.com,REJECT
-HOST,popunderzone.com,REJECT
 HOST,popupclick.ru,REJECT
 HOST,popupdomination.com,REJECT
 HOST,popupmaker.com,REJECT
@@ -36617,7 +36686,6 @@ HOST,pouchrecogniseheiress.com,REJECT
 HOST,pouffedrobinet.com,REJECT
 HOST,m.pougg.com,REJECT
 HOST,sp.poughkeepsiejournal.com,REJECT
-HOST,pouitgy.cn,REJECT
 HOST,pouluwie.net,REJECT
 HOST,pouncewhineheadquarter.com,REJECT
 HOST,poundaroseflight.com,REJECT
@@ -37214,6 +37282,7 @@ HOST,psvgnczo.com,REJECT
 HOST,t.pswec.com,REJECT
 HOST,psxxbhheqxoy.com,REJECT
 HOST,psychaltuxes.com,REJECT
+HOST,psychedelicchess.com,REJECT
 HOST,atxqb.psychologies.com,REJECT
 HOST,psychologywoman.com,REJECT
 HOST,psydyrony.com,REJECT
@@ -37523,7 +37592,6 @@ HOST,pushnews.org,REJECT
 HOST,pushnice.com,REJECT
 HOST,pushno.com,REJECT
 HOST,pushnotifications.click,REJECT
-HOST,pushnotstudio.com,REJECT
 HOST,pushokey.com,REJECT
 HOST,pusholympus.com,REJECT
 HOST,pushosub.com,REJECT
@@ -37570,7 +37638,6 @@ HOST,putrunsspawn.com,REJECT
 HOST,puturebraving.com,REJECT
 HOST,tracking.puustelli.com,REJECT
 HOST,puwpush.com,REJECT
-HOST,puwxbcb.cn,REJECT
 HOST,b1.puxuewang.cn,REJECT
 HOST,puzzledolefulcourier.com,REJECT
 HOST,puzzlementevolve.com,REJECT
@@ -37635,10 +37702,12 @@ HOST,pyzjhd.com,REJECT
 HOST,pyzkk.com,REJECT
 HOST,pyzwwzzooq.com,REJECT
 HOST,pyzx.xyz,REJECT
+HOST,pzapi-ij.com,REJECT
 HOST,t.pzclw.cn,REJECT
 HOST,y.pzclw.cn,REJECT
 HOST,pzhuzlwjiymfos.com,REJECT
 HOST,pziad.com,REJECT
+HOST,pzimff.com,REJECT
 HOST,pzjrabknapw.com,REJECT
 HOST,pzrj6.top,REJECT
 HOST,pzsq.xyz,REJECT
@@ -37678,7 +37747,6 @@ HOST,qamwm5o8dlgijte.com,REJECT
 HOST,lps.qantas.com,REJECT
 HOST,smtc.qantas.com,REJECT
 HOST,smtc.qantas.com.au,REJECT
-HOST,qaolyke.cn,REJECT
 HOST,ms.qaqact.cn,REJECT
 HOST,qarsza.cn,REJECT
 HOST,eco.qasdw3.xyz,REJECT
@@ -37696,7 +37764,6 @@ HOST,qbccpgljgxc.com,REJECT
 HOST,qbdgame.com,REJECT
 HOST,m.qbenu.com,REJECT
 HOST,qbj8.com,REJECT
-HOST,qbjsymmi0w.cn,REJECT
 HOST,qbkybab.cn,REJECT
 HOST,qbkzvophvva.com,REJECT
 HOST,qbop.com,REJECT
@@ -37777,7 +37844,6 @@ HOST,qgevavwyafjf.com,REJECT
 HOST,qgfdqjf.cn,REJECT
 HOST,qgfwets.cn,REJECT
 HOST,qgjapp.com,REJECT
-HOST,qgnadfdluev.com,REJECT
 HOST,qgnlbjkxrzb.com,REJECT
 HOST,qgnqsebea.com,REJECT
 HOST,qgpfxtemxppud.com,REJECT
@@ -38019,7 +38085,6 @@ HOST,qnsr.com,REJECT
 HOST,qnvljz.info,REJECT
 HOST,qnwxk.com,REJECT
 HOST,q.qo26.com,REJECT
-HOST,qo4nkz03dy.cn,REJECT
 HOST,qoaaa.com,REJECT
 HOST,qocvicklgcgr.com,REJECT
 HOST,qoepkc.top,REJECT
@@ -38769,6 +38834,7 @@ HOST,rapidstats.net,REJECT
 HOST,rapidtrk.net,REJECT
 HOST,rapidzebra.io,REJECT
 HOST,rapillireddles.com,REJECT
+HOST,rapite.com,REJECT
 HOST,rapolok.com,REJECT
 HOST,rapt.com,REJECT
 HOST,raptapee.com,REJECT
@@ -39008,7 +39074,6 @@ HOST,reblownwinare.website,REJECT
 HOST,recapture.io,REJECT
 HOST,recastcompellease.com,REJECT
 HOST,recdirectgo.biz,REJECT
-HOST,receiptfastestparameter.com,REJECT
 HOST,receitasefinancas.com,REJECT
 HOST,recentinteriorcrab.com,REJECT
 HOST,recentlyunknowninterested.com,REJECT
@@ -39030,7 +39095,6 @@ HOST,events.reclamefolder.nl,REJECT
 HOST,reclinepersuadedraven.com,REJECT
 HOST,recloturames.xyz,REJECT
 HOST,recognified.net,REJECT
-HOST,recollectionmallet.com,REJECT
 HOST,recomendedsite.com,REJECT
 HOST,recommenddoor.com,REJECT
 HOST,recommendedbookies.co.uk,REJECT
@@ -39169,7 +39233,6 @@ HOST,refpanglbvyd.top,REJECT
 HOST,refpasrasw.world,REJECT
 HOST,refraidinterva.xyz,REJECT
 HOST,refraintupaiid.com,REJECT
-HOST,refreshnerer27.info,REJECT
 HOST,reftagger.com,REJECT
 HOST,refuserates.com,REJECT
 HOST,refutationexcessiveglamour.com,REJECT
@@ -39204,6 +39267,7 @@ HOST,regularplants.com,REJECT
 HOST,regulationprivilegescan.top,REJECT
 HOST,tracking.regus.com,REJECT
 HOST,rehabilitationchasing.com,REJECT
+HOST,rehearsemeltdownrust.com,REJECT
 HOST,experience.rehmann.com,REJECT
 HOST,wyzq.rehuwang.com,REJECT
 HOST,somni.rei.com,REJECT
@@ -39588,7 +39652,6 @@ HOST,rhythmmoney.com,REJECT
 HOST,rhythmxchange.com,REJECT
 HOST,riastats.com,REJECT
 HOST,ribbonslopeexcessively.com,REJECT
-HOST,ribbumuse.com,REJECT
 HOST,ribsaiji.com,REJECT
 HOST,ribunews.com,REJECT
 HOST,ric-ric-rum.com,REJECT
@@ -39670,6 +39733,7 @@ HOST,som.ringcentral.com,REJECT
 HOST,ringexpressbeach.com,REJECT
 HOST,stat.ringier.cz,REJECT
 HOST,stat.ringier.sk,REJECT
+HOST,ringplant.com,REJECT
 HOST,ringplayground.com,REJECT
 HOST,ringsnutdaze.com,REJECT
 HOST,ringsrecord.com,REJECT
@@ -40613,6 +40677,7 @@ HOST,med.savellahcp.com,REJECT
 HOST,smetrics.savethechildren.org,REJECT
 HOST,smetrics.savethechildren.org.uk,REJECT
 HOST,stats.savethemothers.org,REJECT
+HOST,saviourketonic.com,REJECT
 HOST,savoryorange.com,REJECT
 HOST,savorystructure.com,REJECT
 HOST,savouryliaison.com,REJECT
@@ -40697,12 +40762,15 @@ HOST,smetrics.scarboroughtoyota.ca,REJECT
 HOST,scarcecomplicate.com,REJECT
 HOST,scarcesign.com,REJECT
 HOST,scarcesurprise.com,REJECT
+HOST,scardetect.cn,REJECT
 HOST,scarecrowslip.com,REJECT
 HOST,scarecrowslope.com,REJECT
 HOST,scaredcomfort.com,REJECT
 HOST,scaredsidewalk.com,REJECT
 HOST,scaredsnake.com,REJECT
+HOST,scaredsnakes.com,REJECT
 HOST,scaredstory.com,REJECT
+HOST,scaredswing.com,REJECT
 HOST,scarfsmash.com,REJECT
 HOST,scarfthought.com,REJECT
 HOST,scarlet-clicks.info,REJECT
@@ -41212,6 +41280,7 @@ HOST,serch26.biz,REJECT
 HOST,serconmp.com,REJECT
 HOST,serdaive.com,REJECT
 HOST,xfobuc.serenaandlily.com,REJECT
+HOST,serenityspokenrust.com,REJECT
 HOST,serfle.com,REJECT
 HOST,hameln.sergroup.com,REJECT
 HOST,serialbay.com,REJECT
@@ -41408,6 +41477,7 @@ HOST,shakytaste.com,REJECT
 HOST,shalleda.com,REJECT
 HOST,shallowblade.com,REJECT
 HOST,shallowsmile.com,REJECT
+HOST,shalltry.com,REJECT
 HOST,shama5.com,REJECT
 HOST,shamelesseagleheadstone.com,REJECT
 HOST,shamelessnullneutrality.com,REJECT
@@ -41702,6 +41772,7 @@ HOST,shorteh.com,REJECT
 HOST,shortfolio.club,REJECT
 HOST,shorug.cn,REJECT
 HOST,shostobs.net,REJECT
+HOST,shotstopers.com,REJECT
 HOST,shoubsee.net,REJECT
 HOST,shoudan6.press,REJECT
 HOST,aima.shouhome.com,REJECT
@@ -41812,6 +41883,7 @@ HOST,m.smb.info.shutterstock.com,REJECT
 HOST,zrsetz.shutterstock.com,REJECT
 HOST,shuveenvcfzk.com,REJECT
 HOST,pb.shuxigua.com,REJECT
+HOST,shuying.run,REJECT
 HOST,shuzhundsj.cn,REJECT
 HOST,shuzilm.cn,REJECT
 HOST,shuzilm.com,REJECT
@@ -42242,7 +42314,6 @@ HOST,sketchinferiorunits.com,REJECT
 HOST,sketeprofs.com,REJECT
 HOST,skewlyundazed.com,REJECT
 HOST,promo.skf.com,REJECT
-HOST,skfqxkk.cn,REJECT
 HOST,stats.ski.com,REJECT
 HOST,skilfulbags.com,REJECT
 HOST,zgqgig.skillbox.ru,REJECT
@@ -42316,7 +42387,6 @@ HOST,slasup.com,REJECT
 HOST,smetrics.slate.com,REJECT
 HOST,slaveforgetfulsneak.com,REJECT
 HOST,slavesenviablegrammar.com,REJECT
-HOST,slavial.pro,REJECT
 HOST,slaydesperatelyimmensely.com,REJECT
 HOST,slayerhideoustiptoe.com,REJECT
 HOST,slaysweater.com,REJECT
@@ -42493,7 +42563,6 @@ HOST,smashsurprise.com,REJECT
 HOST,smetrics.smbcnikko.co.jp,REJECT
 HOST,rs.smc.tf,REJECT
 HOST,smct.co,REJECT
-HOST,smectapop12.pl,REJECT
 HOST,smegmasclarify.com,REJECT
 HOST,smellerkutcha.cam,REJECT
 HOST,smenqskfmpfxnb.bid,REJECT
@@ -42519,6 +42588,7 @@ HOST,smilewanted.com,REJECT
 HOST,smileycentral.com,REJECT
 HOST,smileyhost.net,REJECT
 HOST,smiling.video,REJECT
+HOST,smilingcattle.com,REJECT
 HOST,smilingpilgrim.com,REJECT
 HOST,smilingshake.com,REJECT
 HOST,smilingwaves.com,REJECT
@@ -42572,6 +42642,7 @@ HOST,ujm.snackmachinery.cn,REJECT
 HOST,snagbaudhulas.com,REJECT
 HOST,snaglighter.com,REJECT
 HOST,snahome.com,REJECT
+HOST,snailscart.com,REJECT
 HOST,snailsengine.com,REJECT
 HOST,snailteasesimulator.com,REJECT
 HOST,snakemineral.com,REJECT
@@ -42628,6 +42699,7 @@ HOST,snonoz.com,REJECT
 HOST,snonsy.com,REJECT
 HOST,snoobi.com,REJECT
 HOST,snopmisgive.com,REJECT
+HOST,snoreempire.com,REJECT
 HOST,snoresmile.com,REJECT
 HOST,snortedbingo.com,REJECT
 HOST,snouft.com,REJECT
@@ -42852,6 +42924,7 @@ HOST,go.sohu.com,REJECT
 HOST,aty.sohu.com,REJECT
 HOST,pv.hd.sohu.com,REJECT
 HOST,qpb.sohu.com,REJECT
+HOST,qpb0.sohu.com,REJECT
 HOST,track.sohu.com,REJECT
 HOST,tracker.tv.sohu.com,REJECT
 HOST,vstat.my.tv.sohu.com,REJECT
@@ -43086,7 +43159,6 @@ HOST,channel.sovereigncomms.co.nz,REJECT
 HOST,sovieashlig.club,REJECT
 HOST,sovrn.com,REJECT
 HOST,sowlettuce.com,REJECT
-HOST,soycrockarab.com,REJECT
 HOST,soysapslad.com,REJECT
 HOST,soyue.cc,REJECT
 HOST,xenaly.sozcu.com.tr,REJECT
@@ -43204,6 +43276,7 @@ HOST,jdgtgb.spieletipps.de,REJECT
 HOST,spiffymachine.com,REJECT
 HOST,spigotsmetonym.cam,REJECT
 HOST,spikscabrin.com,REJECT
+HOST,spikyslave.com,REJECT
 HOST,logs.spilgames.com,REJECT
 HOST,spillsackterrified.com,REJECT
 HOST,ejcgtv.spim.ru,REJECT
@@ -43221,6 +43294,7 @@ HOST,smetrics.spiriva.com,REJECT
 HOST,spirliesalse.com,REJECT
 HOST,spirub.com,REJECT
 HOST,secure.spit0stge.com,REJECT
+HOST,spitefulstop.com,REJECT
 HOST,spittsprevi.club,REJECT
 HOST,spitzerpfunde.com,REJECT
 HOST,spjxwlkj.com,REJECT
@@ -43254,6 +43328,7 @@ HOST,splyt.com,REJECT
 HOST,spn.ee,REJECT
 HOST,spnut.com,REJECT
 HOST,spokeninspiredtruck.com,REJECT
+HOST,spokesmanlinedmercury.com,REJECT
 HOST,spolecznosci.net,REJECT
 HOST,spongecell.com,REJECT
 HOST,spongesalt.com,REJECT
@@ -44228,6 +44303,7 @@ HOST,supermanpunchchanges.com,REJECT
 HOST,t.supermario.xyz,REJECT
 HOST,supernaturalcapricorn.com,REJECT
 HOST,supernff.com,REJECT
+HOST,supernfq.com,REJECT
 HOST,app-stats.supernotes.app,REJECT
 HOST,site-stats.supernotes.app,REJECT
 HOST,superonclick.com,REJECT
@@ -44519,7 +44595,6 @@ HOST,symboltech.com,REJECT
 HOST,smetrics.sympany.ch,REJECT
 HOST,symphoneupcom.site,REJECT
 HOST,sympna.com,REJECT
-HOST,symrkwcn76.cn,REJECT
 HOST,synacast.com,REJECT
 HOST,synapsys.us,REJECT
 HOST,sync.tv,REJECT
@@ -44785,7 +44860,6 @@ HOST,smetrics.talbots.com,REJECT
 HOST,talbotthrall.com,REJECT
 HOST,talentedsteel.com,REJECT
 HOST,jzdn.talk-hk.cn,REJECT
-HOST,talk4anyone.com,REJECT
 HOST,talkingdata.cn,REJECT
 HOST,talkingdata.com,REJECT
 HOST,talkingdata.com.cn,REJECT
@@ -44997,6 +45071,7 @@ HOST,taroads.com,REJECT
 HOST,smetrics.tarrantcounty.com,REJECT
 HOST,tarrilyathenee.com,REJECT
 HOST,tarsuscaul.com,REJECT
+HOST,tartarsharped.com,REJECT
 HOST,tartator.com,REJECT
 HOST,tarttendency.com,REJECT
 HOST,tarvemowhay.com,REJECT
@@ -45119,7 +45194,6 @@ HOST,tdcbvxxhss.xyz,REJECT
 HOST,tdcoincore.org,REJECT
 HOST,tdcupijtgp.com,REJECT
 HOST,tddmp.com,REJECT
-HOST,tdedqqv.cn,REJECT
 HOST,tdehrjyyxhl.com,REJECT
 HOST,m.tdiac.com,REJECT
 HOST,m.tdiea.com,REJECT
@@ -45397,6 +45471,7 @@ HOST,testin.cn,REJECT
 HOST,testnet.nl,REJECT
 HOST,go.testo.com,REJECT
 HOST,forms.testoil.com,REJECT
+HOST,teststocking.com,REJECT
 HOST,marketing.testtargettreat.com,REJECT
 HOST,tesulf.com,REJECT
 HOST,tetfer.com,REJECT
@@ -45809,6 +45884,7 @@ HOST,thongaspredo.com,REJECT
 HOST,thongcivic.com,REJECT
 HOST,thongedoptions.com,REJECT
 HOST,thooidparodus.com,REJECT
+HOST,thoomsay.com,REJECT
 HOST,thoorest.com,REJECT
 HOST,thoovoay.net,REJECT
 HOST,thoroughlycanyonunanimously.com,REJECT
@@ -46001,6 +46077,7 @@ HOST,analytics-sg.tiktok.com,REJECT
 HOST,analytics.tiktok.com,REJECT
 HOST,mcs-va.tiktok.com,REJECT
 HOST,mcs-va.tiktokv.com,REJECT
+HOST,mon.us.tiktokv.com,REJECT
 HOST,smetrics.tila.com,REJECT
 HOST,stat.tildacdn.com,REJECT
 HOST,tilingsfardels.com,REJECT
@@ -46873,7 +46950,6 @@ HOST,pa.travelwhiz.app,REJECT
 HOST,smetrics.travelzoo.com,REJECT
 HOST,marketing.traversecity.com,REJECT
 HOST,traversedlp.com,REJECT
-HOST,traverseforecast.com,REJECT
 HOST,travidia.com,REJECT
 HOST,trawahdh2hd8nbvy09.com,REJECT
 HOST,tray0bury.com,REJECT
@@ -47237,6 +47313,7 @@ HOST,tuinei.com,REJECT
 HOST,tuinfra.com,REJECT
 HOST,activity.tuipear.com,REJECT
 HOST,tuipenguin.com,REJECT
+HOST,tuiquanqiu.cn,REJECT
 HOST,yun.tuisnake.com,REJECT
 HOST,tuite8.com,REJECT
 HOST,tuitiger.com,REJECT
@@ -47367,6 +47444,7 @@ HOST,mi.tvzhe.com,REJECT
 HOST,tw.cx,REJECT
 HOST,twackle.com,REJECT
 HOST,twaffdpnt.com,REJECT
+HOST,twangedcored.com,REJECT
 HOST,twazzyoidwlfe.com,REJECT
 HOST,twb98.com,REJECT
 HOST,twcczhu.com,REJECT
@@ -47876,6 +47954,7 @@ HOST,unaspajas.com,REJECT
 HOST,unattractivefrigilityfrigility.com,REJECT
 HOST,unavailablebackedwaved.com,REJECT
 HOST,unawakegaleus.com,REJECT
+HOST,unbecomingbikes.com,REJECT
 HOST,unbecominghall.com,REJECT
 HOST,unbeedrillom.com,REJECT
 HOST,unblentnitric.com,REJECT
@@ -47904,6 +47983,7 @@ HOST,t.und.com,REJECT
 HOST,undailysnout.com,REJECT
 HOST,undard.com,REJECT
 HOST,undedfracted.club,REJECT
+HOST,undeenardoo.com,REJECT
 HOST,undens.com,REJECT
 HOST,under2given.com,REJECT
 HOST,trk.e.underarmour.com,REJECT
@@ -47924,6 +48004,7 @@ HOST,understandingharmoniousillegal.com,REJECT
 HOST,understandintimidate.com,REJECT
 HOST,understatementcrystal.com,REJECT
 HOST,understoodadjoiningarab.com,REJECT
+HOST,understoodocean.com,REJECT
 HOST,undertone.com,REJECT
 HOST,underwards.site,REJECT
 HOST,underwearnavigable.com,REJECT
@@ -47971,7 +48052,6 @@ HOST,unilife.top,REJECT
 HOST,analytics.unilogcorp.com,REJECT
 HOST,y.unilz588.com,REJECT
 HOST,unimhk.com,REJECT
-HOST,unimr0k7em.cn,REJECT
 HOST,6ac.uninewsale.com,REJECT
 HOST,uninterestedquarter.com,REJECT
 HOST,uninua.com,REJECT
@@ -48059,6 +48139,7 @@ HOST,unoblotto.net,REJECT
 HOST,unoseconomin.xyz,REJECT
 HOST,stats.unox.com,REJECT
 HOST,unpanchamon.com,REJECT
+HOST,unpfqc9.com,REJECT
 HOST,unphionetor.com,REJECT
 HOST,unpk41.online,REJECT
 HOST,unpleasantconcrete.com,REJECT
@@ -48201,7 +48282,6 @@ HOST,uptracs.com,REJECT
 HOST,uptrendsdata.com,REJECT
 HOST,upush.co,REJECT
 HOST,engage.uq.edu.au,REJECT
-HOST,uqakkye.cn,REJECT
 HOST,uqbeohoajdqvcfe.xyz,REJECT
 HOST,uqbmzwv.cn,REJECT
 HOST,uqidian.com,REJECT
@@ -48669,7 +48749,6 @@ HOST,veille-referencement.com,REJECT
 HOST,veimmy.com,REJECT
 HOST,veinteractive.com,REJECT
 HOST,velaro.com,REJECT
-HOST,velmedia.net,REJECT
 HOST,velocecdn.com,REJECT
 HOST,velocitycdn.com,REJECT
 HOST,velteels.net,REJECT
@@ -48752,7 +48831,7 @@ HOST,versionsgratersteward.com,REJECT
 HOST,vertamedia.com,REJECT
 HOST,bbbihe.vertbaudet.es,REJECT
 HOST,grtmpr.vertbaudet.fr,REJECT
-HOST,beacon.vertebrae-axis.com,REJECT
+HOST,vertebrae-axis.com,REJECT
 HOST,apcinfo.vertexstandard.com,REJECT
 HOST,vertical-leap.co.uk,REJECT
 HOST,vertical-leap.net,REJECT
@@ -48997,7 +49076,6 @@ HOST,vimmenced.club,REJECT
 HOST,vinalsmuffish.com,REJECT
 HOST,vindexcravat.com,REJECT
 HOST,vindicosuite.com,REJECT
-HOST,vinegarweb.com,REJECT
 HOST,vinlens.com,REJECT
 HOST,vinsight.de,REJECT
 HOST,prhhqo.vintagevoyage.ru,REJECT
@@ -49410,6 +49488,7 @@ HOST,ea.voyage-prive.it,REJECT
 HOST,ncx2.voyage-prive.it,REJECT
 HOST,vnl1.voyage-prive.nl,REJECT
 HOST,voyagecondom.com,REJECT
+HOST,voyagepotato.com,REJECT
 HOST,t.voyages-sncf.com,REJECT
 HOST,tr.email.voyagesleclerc.com,REJECT
 HOST,tr.news.voyagesleclerc.com,REJECT
@@ -50076,7 +50155,6 @@ HOST,webminer.pro,REJECT
 HOST,webminerpool.com,REJECT
 HOST,webmining.co,REJECT
 HOST,webmobile.ws,REJECT
-HOST,webnotificationslife.com,REJECT
 HOST,log.webnovel.com,REJECT
 HOST,weborama.com,REJECT
 HOST,weborama.fr,REJECT
@@ -50231,6 +50309,7 @@ HOST,weiledi.com,REJECT
 HOST,ads.weilitoutiao.net,REJECT
 HOST,weimeicar.cn,REJECT
 HOST,forad1.weimeicun.com,REJECT
+HOST,weimeiwangluo.site,REJECT
 HOST,mj.weimob.net,REJECT
 HOST,weinin99.cn,REJECT
 HOST,weipapa.top,REJECT
@@ -50371,7 +50450,6 @@ HOST,wfyqc.com,REJECT
 HOST,wg-aff.com,REJECT
 HOST,wgafd.com,REJECT
 HOST,wgat5ln2wly8.com,REJECT
-HOST,wgbeugkn.com,REJECT
 HOST,wgcsxqkyry.com,REJECT
 HOST,m.wgewj.cn,REJECT
 HOST,wghjq.cn,REJECT
@@ -50547,6 +50625,7 @@ HOST,wickedlongingbelfry.com,REJECT
 HOST,wickedreports.com,REJECT
 HOST,ddguhg.wickes.co.uk,REJECT
 HOST,wickoolt.com,REJECT
+HOST,widaimty.com,REJECT
 HOST,widdiesbrawns.com,REJECT
 HOST,wideorganiz.xyz,REJECT
 HOST,widerplanet.com,REJECT
@@ -50856,6 +50935,7 @@ HOST,te.witt-weiden.de,REJECT
 HOST,vvqizy.witt-weiden.de,REJECT
 HOST,insight.wittkieffer.com,REJECT
 HOST,analytics.wittypen.com,REJECT
+HOST,wiuspckmn.bar,REJECT
 HOST,wivo2gaza.com,REJECT
 HOST,hmg.wiwo.de,REJECT
 HOST,frog.wix.com,REJECT
@@ -51207,11 +51287,13 @@ HOST,woujoami.com,REJECT
 HOST,woundedassurance.com,REJECT
 HOST,wounderfullife.xyz,REJECT
 HOST,wovazaix.com,REJECT
+HOST,woven.pw,REJECT
 HOST,wowad.wow-classic.com,REJECT
 HOST,wowad.xyz,REJECT
 HOST,wowanalytics.co.uk,REJECT
 HOST,l.email.wowcher.co.uk,REJECT
 HOST,learn.wow.wowforbusiness.com,REJECT
+HOST,wowhofoo.com,REJECT
 HOST,wowips.com,REJECT
 HOST,wowjogsot.com,REJECT
 HOST,adebis-52667624.wowma.jp,REJECT
@@ -51575,7 +51657,6 @@ HOST,vj.x-ssp.com,REJECT
 HOST,x-stat.de,REJECT
 HOST,x-traceur.com,REJECT
 HOST,ee.x0u4o.cn,REJECT
-HOST,x18a1fmq74.cn,REJECT
 HOST,x1ka.cn,REJECT
 HOST,e.x2e8id.cn,REJECT
 HOST,m.x2e8id.cn,REJECT
@@ -51665,6 +51746,7 @@ HOST,xcggpt.com,REJECT
 HOST,xcggpt.net,REJECT
 HOST,xchgx.com,REJECT
 HOST,xchmai.com,REJECT
+HOST,xcjcy.pro,REJECT
 HOST,xcjy876.com,REJECT
 HOST,fuk.xckxjtbg.com,REJECT
 HOST,xclaimwords.net,REJECT
@@ -51747,6 +51829,7 @@ HOST,xg084mgkfsfk.com,REJECT
 HOST,xg4ken.com,REJECT
 HOST,e.xgaij.com,REJECT
 HOST,m.xgaij.com,REJECT
+HOST,xgckudv.cn,REJECT
 HOST,xgcsr.com,REJECT
 HOST,xgdhmwbgilx.com,REJECT
 HOST,xgdhxgznp.com,REJECT
@@ -52213,6 +52296,7 @@ HOST,xoliter.com,REJECT
 HOST,xopcdnhjf.com,REJECT
 HOST,xouzmvlt.com,REJECT
 HOST,xovq5nemr.com,REJECT
+HOST,xox8829.com,REJECT
 HOST,xox8956.com,REJECT
 HOST,xox9298.com,REJECT
 HOST,xox9325.com,REJECT
@@ -52223,6 +52307,7 @@ HOST,nop.xpanama.net,REJECT
 HOST,xpbbyiqbcawamy.com,REJECT
 HOST,xpchfwl.cn,REJECT
 HOST,xpctraffic.com,REJECT
+HOST,xpdyqax.cn,REJECT
 HOST,xpeeps.com,REJECT
 HOST,xpicvrubu.xyz,REJECT
 HOST,xpizjd4.cn,REJECT
@@ -52269,7 +52354,6 @@ HOST,xrtzf.com,REJECT
 HOST,xryrylt.cn,REJECT
 HOST,webstatistieken.xs4all.nl,REJECT
 HOST,xs8888.vip,REJECT
-HOST,xsdizch.cn,REJECT
 HOST,a8clk.xserver.ne.jp,REJECT
 HOST,bd1-china.xsfaya.com,REJECT
 HOST,xshellcn.com,REJECT
@@ -52486,6 +52570,7 @@ HOST,xydbpbnmo.com,REJECT
 HOST,xydnkpobktx.com,REJECT
 HOST,xydxrlfwfpau.com,REJECT
 HOST,xygshxnedtccxlt.com,REJECT
+HOST,xyhfc.xyz,REJECT
 HOST,xyhkj.vip,REJECT
 HOST,xyhly.xyz,REJECT
 HOST,app.xyjqy.com,REJECT
@@ -52528,7 +52613,6 @@ HOST,xzcvfdwe.cn,REJECT
 HOST,xzdchl.com,REJECT
 HOST,xzhcedu.cn,REJECT
 HOST,xzhwxfgc.cn,REJECT
-HOST,xzidjitondzt.com,REJECT
 HOST,xzjgzpw.cn,REJECT
 HOST,xzl200107151017.ltd,REJECT
 HOST,c.xznykf.org,REJECT
@@ -52708,7 +52792,6 @@ HOST,yaoxing.fun,REJECT
 HOST,yaoyee.com,REJECT
 HOST,a1.yaozui.com,REJECT
 HOST,s.yaozui.com,REJECT
-HOST,yapfurniture.com,REJECT
 HOST,yapusheji.com,REJECT
 HOST,yardianalytics.com,REJECT
 HOST,yardperformedtraumatize.com,REJECT
@@ -53069,6 +53152,7 @@ HOST,m.yitime.top,REJECT
 HOST,yitongfang.com,REJECT
 HOST,info.yitsoftware.com,REJECT
 HOST,yituo-patibao.cn,REJECT
+HOST,yiuspekmn.bar,REJECT
 HOST,yiwad.com,REJECT
 HOST,yiwanuu.com,REJECT
 HOST,yiwk.com,REJECT
@@ -53103,6 +53187,7 @@ HOST,yjqiqi.com,REJECT
 HOST,yjrjmy.com,REJECT
 HOST,yjsituation.com,REJECT
 HOST,yjtag.jp,REJECT
+HOST,yjuvmcgatsflbf.xyz,REJECT
 HOST,yjuydihly.com,REJECT
 HOST,yjwl.ltd,REJECT
 HOST,yjxmijncfaiag.xyz,REJECT
@@ -53500,7 +53585,6 @@ HOST,yphmgzkojubwxn.com,REJECT
 HOST,ypiads.com,REJECT
 HOST,yping.online,REJECT
 HOST,ypjmvdfxqw.com,REJECT
-HOST,ypjmyskeii.com,REJECT
 HOST,photo.ypkjq.cn,REJECT
 HOST,m.yplzarxt.cn,REJECT
 HOST,ypmadserver.com,REJECT
@@ -53536,6 +53620,7 @@ HOST,yrlnymthma.com,REJECT
 HOST,yrnikichkxyb.xyz,REJECT
 HOST,yrphdyztfgfv.com,REJECT
 HOST,yrqr-ping.com,REJECT
+HOST,yrrcc.top,REJECT
 HOST,yrxhybwq.com,REJECT
 HOST,yrxmr.com,REJECT
 HOST,yrzdbzq.cn,REJECT
@@ -53635,6 +53720,7 @@ HOST,yujianmeihao179.cn,REJECT
 HOST,yujyjms.cn,REJECT
 HOST,yukariyakumo.cn,REJECT
 HOST,yukhj.com,REJECT
+HOST,yular.cn,REJECT
 HOST,yule8.net,REJECT
 HOST,yulidianshang.com,REJECT
 HOST,yulonginvest.com.cn,REJECT
@@ -53687,6 +53773,7 @@ HOST,yuqadu.xyz,REJECT
 HOST,yuqhtlry.xyz,REJECT
 HOST,yuqnibpyn.com,REJECT
 HOST,yuquad.com,REJECT
+HOST,yuretb.site,REJECT
 HOST,yuriaftereleven.com,REJECT
 HOST,yurivideo.com,REJECT
 HOST,yushengyuancaishui.com,REJECT
@@ -53843,6 +53930,7 @@ HOST,m.z83rj.cn,REJECT
 HOST,z8o.cn,REJECT
 HOST,za5.net,REJECT
 HOST,ld.za9mnx.com,REJECT
+HOST,zaamuvqteety.com,REJECT
 HOST,zabanit.xyz,REJECT
 HOST,e.zabxb.com,REJECT
 HOST,m.zabxb.com,REJECT
@@ -54112,6 +54200,7 @@ HOST,kfewaz.zh1155.com,REJECT
 HOST,zhads.com,REJECT
 HOST,zhaibei112.top,REJECT
 HOST,zhaiqichao.top,REJECT
+HOST,zhaishanghui.shop,REJECT
 HOST,zhaixing.link,REJECT
 HOST,guang1.zhakao.cn,REJECT
 HOST,tfs.zhamm.cn,REJECT
@@ -54122,6 +54211,7 @@ HOST,zhangbaochang.top,REJECT
 HOST,zhangdujia.com,REJECT
 HOST,zhangfeiyijuepifa.com,REJECT
 HOST,zhangguangzong.com,REJECT
+HOST,zhangheng.me,REJECT
 HOST,zhangjianlong.xyz,REJECT
 HOST,zhangjinfei.vip,REJECT
 HOST,zhangkeblog.site,REJECT
@@ -54361,6 +54451,7 @@ HOST,ablink.my.zip.co,REJECT
 HOST,ziphentai.com,REJECT
 HOST,ziphoumt.net,REJECT
 HOST,smetrics.ziplyfiber.com,REJECT
+HOST,zipperxray.com,REJECT
 HOST,zippyfrog.co,REJECT
 HOST,zippywind.com,REJECT
 HOST,zipstat.dk,REJECT
@@ -54382,6 +54473,7 @@ HOST,ziyouxiaoyuan.cn,REJECT
 HOST,ziyu.net,REJECT
 HOST,d.ziyuanm.com,REJECT
 HOST,ziyuantx.com,REJECT
+HOST,ziyuanyinhang.wang,REJECT
 HOST,ziyunxs.com,REJECT
 HOST,zizcy.com,REJECT
 HOST,zizikagle.com,REJECT
@@ -54856,7 +54948,9 @@ HOST,zychologla.com,REJECT
 HOST,zydyjzw.cn,REJECT
 HOST,zyezhz.cn,REJECT
 HOST,zyf03k.xyz,REJECT
+HOST,zygaoshou888.cn,REJECT
 HOST,zygkzytb.cn,REJECT
+HOST,zygxy.online,REJECT
 HOST,zyhx.ltd,REJECT
 HOST,zyiis.net,REJECT
 HOST,zyjy.ink,REJECT
