@@ -1,5 +1,5 @@
 # 拒绝列表
-HOST-SUFFIX,app-site-association.cdn-apple.com,REJECT
+HOST,app-site-association.cdn-apple.com,REJECT
 HOST-SUFFIX,corp3g.cn,REJECT
 HOST-SUFFIX,ireader.com,REJECT
 HOST-SUFFIX,ireader.com.cn,REJECT
