@@ -4,8 +4,6 @@ HOST-SUFFIX,acl4.ssr,DIRECT
 HOST-SUFFIX,hiwifi.com,DIRECT
 HOST-SUFFIX,home.arpa,DIRECT
 HOST-SUFFIX,leike.cc,DIRECT
-HOST-SUFFIX,localhost.ptlogin2.qq.com,DIRECT
-HOST-SUFFIX,localhost.sec.qq.com,DIRECT
 HOST-SUFFIX,miwifi.com,DIRECT
 HOST-SUFFIX,msftconnecttest.com,DIRECT
 HOST-SUFFIX,msftncsi.com,DIRECT
@@ -16,6 +14,8 @@ HOST-SUFFIX,phicomm.me,DIRECT
 HOST-SUFFIX,routerlogin.com,DIRECT
 HOST-SUFFIX,tendawifi.com,DIRECT
 HOST-SUFFIX,zte.home,DIRECT
+HOST,localhost.ptlogin2.qq.com,DIRECT
+HOST,localhost.sec.qq.com,DIRECT
 IP-CIDR,0.0.0.0/8,DIRECT
 IP-CIDR,10.0.0.0/8,DIRECT
 IP-CIDR,100.64.0.0/10,DIRECT

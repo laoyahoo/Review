@@ -82,9 +82,17 @@ class Download_IPCIDR(object):
         with open(old_path_url, mode="r", encoding="utf-8") as f:
             for line in f.readlines():
                 with open(new_path_url, mode="a+", encoding="utf-8") as new_f:
-                    str_e = line.replace("DOMAIN-SUFFIX","HOST")
-                    new_str = str_e.replace("\n",",REJECT") # 把换行符替换成 ,DIRECT
-                    new_f.write(new_str+"\n") # 写入的时候需要写入换行符
+                    line_sum = line.split(".")
+                    if len(line_sum) >= 3:
+                        str_e = line.replace("DOMAIN-SUFFIX","HOST")
+                        new_str = str_e.replace("\n",",REJECT") # 把换行符替换成 ,DIRECT
+                        new_f.write(new_str+"\n") # 写入的时候需要写入换行符
+                    else:
+                        str_e = line.replace("DOMAIN-SUFFIX", "HOST-SUFFIX")
+                        new_str = str_e.replace("\n", ",REJECT")  # 把换行符替换成 ,DIRECT
+                        new_f.write(new_str + "\n")  # 写入的时候需要写入换行符
+
+
 
     def Advertising(self):
         # 原始下载的数据
@@ -218,12 +226,12 @@ class Download_IPCIDR(object):
 
 Download_IPCIDR().urlSet()
 Download_IPCIDR().antiAd()
-Download_IPCIDR().Advertising()
-Download_IPCIDR().SystemOTA()
-Download_IPCIDR().Apple()
-Download_IPCIDR().Proxy()
-Download_IPCIDR().SystemOTA()
-Download_IPCIDR().China()
-Download_IPCIDR().Microsoft()
-Download_IPCIDR().Privacy()
-Download_IPCIDR().Hijacking()
+# Download_IPCIDR().Advertising()
+# Download_IPCIDR().SystemOTA()
+# Download_IPCIDR().Apple()
+# Download_IPCIDR().Proxy()
+# Download_IPCIDR().SystemOTA()
+# Download_IPCIDR().China()
+# Download_IPCIDR().Microsoft()
+# Download_IPCIDR().Privacy()
+# Download_IPCIDR().Hijacking()
