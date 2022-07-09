@@ -76,22 +76,44 @@ class Download_IPCIDR(object):
         # 更改后的数据
         new_path_url = os.path.join(path_url,"AntiadQx.list")
 
+        temp_host = os.path.join(path_url,"AntiadQxhost.list")
+        temp_suffx = os.path.join(path_url, "AntiadQxsuffx.list")
+
         if os.path.exists(new_path_url):  # 如果文件存在则删除，第一次没有文件，后面每次更新都有
             os.remove(new_path_url)  # 删除文件
 
+        if os.path.exists(temp_host):  # 如果文件存在则删除，第一次没有文件，后面每次更新都有
+            os.remove(temp_host)  # 删除文件
+
+        if os.path.exists(temp_suffx):  # 如果文件存在则删除，第一次没有文件，后面每次更新都有
+            os.remove(temp_suffx)  # 删除文件
+
         with open(old_path_url, mode="r", encoding="utf-8") as f:
             for line in f.readlines():
-                with open(new_path_url, mode="a+", encoding="utf-8") as new_f:
-                    line_sum = line.split(".")
-                    if len(line_sum) >= 3:
-                        str_e = line.replace("DOMAIN-SUFFIX","HOST")
-                        new_str = str_e.replace("\n",",REJECT") # 把换行符替换成 ,DIRECT
-                        new_f.write(new_str+"\n") # 写入的时候需要写入换行符
-                    else:
-                        str_e = line.replace("DOMAIN-SUFFIX", "HOST-SUFFIX")
-                        new_str = str_e.replace("\n", ",REJECT")  # 把换行符替换成 ,DIRECT
-                        new_f.write(new_str + "\n")  # 写入的时候需要写入换行符
+                with open(temp_suffx, mode="a+", encoding="utf-8") as new_f:
+                    if "#" not in line: # 不要注释写入
+                        line_sum = line.split(".")
+                        if len(line_sum) < 3:  # 如果切割的是域名后缀，用len长度判断是否主机名还是后缀域名
+                            str_e = line.replace("DOMAIN-SUFFIX","HOST-SUFFIX")
+                            new_str = str_e.replace("\n",",REJECT") # 把换行符替换成 ,DIRECT
+                            new_f.write(new_str+"\n") # 写入的时候需要写入换行符
+                        else:
+                            with open(temp_host, mode="a+", encoding="utf-8") as new_f:
+                                str_e = line.replace("DOMAIN-SUFFIX", "HOST")
+                                new_str = str_e.replace("\n", ",REJECT")  # 把换行符替换成 ,DIRECT
+                                new_f.write(new_str + "\n")  # 写入的时候需要写入换行符
 
+        # 把两个文件合并成一个
+        with open(temp_host, mode="a+", encoding="utf-8") as host_f:
+            with open(temp_suffx, mode="r", encoding="utf-8") as host_suffx:
+                for line in host_suffx:
+                    host_f.write(line)
+
+        # 重命名文件
+        os.rename(temp_host,new_path_url)
+
+        # 删除文件
+        os.remove(temp_suffx)
 
 
     def Advertising(self):
@@ -226,12 +248,12 @@ class Download_IPCIDR(object):
 
 Download_IPCIDR().urlSet()
 Download_IPCIDR().antiAd()
-# Download_IPCIDR().Advertising()
-# Download_IPCIDR().SystemOTA()
-# Download_IPCIDR().Apple()
-# Download_IPCIDR().Proxy()
-# Download_IPCIDR().SystemOTA()
-# Download_IPCIDR().China()
-# Download_IPCIDR().Microsoft()
-# Download_IPCIDR().Privacy()
-# Download_IPCIDR().Hijacking()
+Download_IPCIDR().Advertising()
+Download_IPCIDR().SystemOTA()
+Download_IPCIDR().Apple()
+Download_IPCIDR().Proxy()
+Download_IPCIDR().SystemOTA()
+Download_IPCIDR().China()
+Download_IPCIDR().Microsoft()
+Download_IPCIDR().Privacy()
+Download_IPCIDR().Hijacking()
