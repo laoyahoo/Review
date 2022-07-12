@@ -1,15 +1,16 @@
 # NAME: REJECT
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-04 16:18:52
-# HOST: 13
-# HOST-SUFFIX: 12569
+# UPDATED: 2022-07-12 16:00:23
+# HOST: 14
+# HOST-SUFFIX: 12571
 # IP-CIDR: 7
-# TOTAL: 12589
+# TOTAL: 12592
 HOST,hm.baidu.com,REJECT
 HOST,hmma.baidu.com,REJECT
 HOST,js.users.51.la,REJECT
 HOST,mc.51.la,REJECT
+HOST,opencloud.wostore.cn,REJECT
 HOST,safebrowsing.googleapis.com,REJECT
 HOST,safebrowsing.urlsec.qq.com,REJECT
 HOST,track.58.com,REJECT
@@ -2161,6 +2162,7 @@ HOST-SUFFIX,cmp.tech426.com,REJECT
 HOST-SUFFIX,cmp.tek.no,REJECT
 HOST-SUFFIX,cmp.telerama.fr,REJECT
 HOST-SUFFIX,cmp2.channelpartner.de,REJECT
+HOST-SUFFIX,cmpassport.com,REJECT
 HOST-SUFFIX,cms.hardloopaanbiedingen.nl,REJECT
 HOST-SUFFIX,cmstool.youku.com,REJECT
 HOST-SUFFIX,cn1.stadiumgoods.com,REJECT
@@ -4223,6 +4225,7 @@ HOST-SUFFIX,iconstab.club,REJECT
 HOST-SUFFIX,icu.getstorybox.com,REJECT
 HOST-SUFFIX,icxmlt.decathlon.ru,REJECT
 HOST-SUFFIX,id5-sync.com,REJECT
+HOST-SUFFIX,id6.me,REJECT
 HOST-SUFFIX,idbkfy.kango-roo.com,REJECT
 HOST-SUFFIX,ideadevice.actonservice.com,REJECT
 HOST-SUFFIX,idg1.idgarages.com,REJECT
