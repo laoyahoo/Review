@@ -245,6 +245,7 @@ class Download_IPCIDR(object):
                     str_e = line.replace("Hijacking", "REJECT")
                     # new_str = str_e.replace("\n",",REJECT") # 把换行符替换成 ,DIRECT
                     new_f.write(str_e)  # 写入的时候需要写入换行符
+        print("执行完成")
 
 Download_IPCIDR().urlSet()
 Download_IPCIDR().antiAd()
