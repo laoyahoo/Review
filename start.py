@@ -53,7 +53,7 @@ class Download_IPCIDR(object):
         # 多个数据下载源
         dicts = {
             "anti-ad-surge": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt",
-            "Advertising":"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Advertising/Advertising.list",
+            "Advertising":"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Advertising/Advertising.list",
             "SystemOTA":"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/SystemOTA/SystemOTA.list",
             "Apple":"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Apple/Apple.list",
             "Proxy":"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Proxy/Proxy.list",
@@ -250,7 +250,7 @@ class Download_IPCIDR(object):
 Download_IPCIDR().urlSet()
 Download_IPCIDR().antiAd()
 Download_IPCIDR().Advertising()
-# Download_IPCIDR().SystemOTA()
+Download_IPCIDR().SystemOTA()
 Download_IPCIDR().Apple()
 Download_IPCIDR().Proxy()
 Download_IPCIDR().China()
